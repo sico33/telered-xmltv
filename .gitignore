@@ -1,0 +1,15 @@
+# Ignorar carpetas pesadas o de pruebas
+.agents/
+Herramientas/
+Premium TV/
+telered_files/
+Test/
+ultra-tv-1.0.30/
+
+# Ignorar archivos sueltos que no hacen al script
+*.apk
+*.m3u8
+*.txt
+*.png
+*.json
+*.html

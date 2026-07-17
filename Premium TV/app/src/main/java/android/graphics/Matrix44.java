@@ -1,8 +1,0 @@
-package android.graphics;
-
-/* JADX INFO: loaded from: classes2.dex */
-public /* synthetic */ class Matrix44 {
-    static {
-        throw new NoClassDefFoundError();
-    }
-}

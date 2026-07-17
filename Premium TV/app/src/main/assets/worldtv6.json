@@ -1,8 +1,0 @@
-{
-  "x-flow-origin": "Android",
-  "flow_referer_domain": "https://portal.app.flow.com.ar/",
-  "flow_referer_domain_personal": "https://portal.app.flow.com.py/",
-  "flow_site_origin": "https://portal.app.flow.com.ar",
-  "flow_site_origin_personal": "https://portal.app.flow.com.py",
-  "default_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-}

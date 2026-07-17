@@ -1,8 +1,0 @@
-package android.adservices.common;
-
-/* JADX INFO: loaded from: classes2.dex */
-public /* synthetic */ class AdServicesPermissions {
-    static {
-        throw new NoClassDefFoundError();
-    }
-}
