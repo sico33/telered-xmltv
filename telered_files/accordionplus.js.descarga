@@ -1,0 +1,34 @@
+/* Extiende la función de acordeón hacia los títulos de grupos de preguntas */
+
+var SetAccordionPlus = function(){
+	$('.xxxfaqs').css('display','none');
+	$('.xxxfaqs').parents('.blockcontainer').find('.pagetitle').addClass('witharrow');
+	$('.pagetitle.witharrow h1').prepend('<div class="xxxfaqsquestionarrow" style="display: block;"></div>');
+};
+
+	$(document).on("click", '.pagetitle.witharrow', function(q) {
+		//Click en un desplegable TITULO DE GRUPO
+		var scrollpixels = 0;
+		var scroll = false;
+		if ( !$(this).hasClass('GRUPOaccordionlisttoclose') ) {
+			$(this).addClass("GRUPOaccordionlistopen");
+			scroll = true;
+		};
+
+		//Close previous opened accordionwrapper if so
+		$('.GRUPOaccordionlisttoclose').parent().find('.xxxfaqs').slideToggle( 200, function() {
+			$('.GRUPOaccordionlisttoclose').removeClass("GRUPOaccordionlisttoclose");
+		});
+
+		$('.GRUPOaccordionlistopen').parent().find('.xxxfaqs').slideToggle( 200, function() {
+			$('.GRUPOaccordionlistopen').addClass("GRUPOaccordionlisttoclose"); //Will be closed on the next click in another accordionlistquestion
+			if (scroll) {
+				var scrollpixels = $(".GRUPOaccordionlistopen").offset().top - 60;
+				$(document).scrollTop(scrollpixels);
+			}
+			$('.GRUPOaccordionlisttoclose').removeClass("GRUPOaccordionlistopen");
+		});
+
+	});
+
+$(document).ready(function(){SetAccordionPlus();}); // Set parenttop & parentsub

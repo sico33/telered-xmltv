@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.playtv.premium.app-mergeDebugResources-2:/values-pt-rBR/values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Capo\\Desktop\\Nebula\\ACA\\Premium TV\\app\\src\\main\\res\\values-pt-rBR\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "70",
+                        "endOffsets": "123"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "70",
+                        "endOffsets": "121"
+                    }
+                }
+            ]
+        }
+    ]
+}

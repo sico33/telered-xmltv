@@ -1,0 +1,68 @@
+ANÁLISIS TÉCNICO DE MAGLINK TV (MAG)
+
+Este documento detalla el análisis de la lógica de funcionamiento de la aplicación Maglink TV (ar.maglink.maglinktv) para la obtención de la grilla de programación de Telered y el mecanismo utilizado para la reproducción de canales en vivo.
+
+================================================================================
+1. GRILLA DE PROGRAMACIÓN DE TELERED
+================================================================================
+
+La aplicación obtiene los datos directamente mediante web scraping (extracción del HTML) de la página web oficial del buscador de programación de Telered.
+
+* URL Fuente: https://www.telered.com.ar/buscador-grilla
+* Mecanismo de Parseo (en Flutter/Dart):
+  La app descarga dinámicamente este HTML y procesa los elementos del DOM buscando selectores específicos:
+  1. Lista de Canales (.listacanales): Busca el contenedor de canales y recorre cada una de las filas correspondientes (.chrow).
+  2. Información del Canal (.chtitle):
+     * Número de canal: Extraído del elemento .chnumheader.
+     * Nombre del canal: Extraído de la clase .chname.
+     * Logo del canal: Extraído de la propiedad CSS background-image en el contenedor .logowrapper (ej. img/logos_ch/logo-nettv.png).
+  3. Listado de Programas (.programslist):
+     Por cada canal, recorre los elementos hijos con la clase .program:
+     * Título del programa: Extraído de .programtitle.
+     * Horarios: Extraído de los atributos personalizados data-horadesdeex (hora de inicio) y data-horahastaex (hora de finalización).
+     * Ficha de detalles: Extrae el identificador del atributo data-opencontentid (por ejemplo, 931431-D-).
+     * Duración visual: Se determina a partir de la propiedad style="width: XXpx" que define la duración proporcional en la barra de tiempo.
+
+================================================================================
+2. LÓGICA PARA VER CANALES EN VIVO (LIVE TV)
+================================================================================
+
+La reproducción de canales en vivo en Maglink TV no depende de enlaces estáticos ni utiliza el sistema de tokens/redirecciones de Flow (como Premium TV). En su lugar, emplea un sistema de Sondeo e Interrupción en tiempo de ejecución (Sniffing) mediante una WebView oculta.
+
+Flujo del Mecanismo:
+[Flutter JSON Catálogo] ---> [MethodChannel: maglinktv/sniffer] ---> [Android StreamSniffer]
+                                                                            |
+                                                                    (WebView Oculta)
+                                                                            |
+[URL Final Directa (.m3u8/.mpd)] <--- [Callback: AndroidSniffer] <--- [Inyección JS / Filtro Red]
+
+Paso a Paso Técnico:
+
+1. Carga del Catálogo:
+   La interfaz de Flutter obtiene un listado de eventos activos en vivo desde un endpoint en formato JSON, por ejemplo:
+   https://streamtp.sbs/wc.json
+   
+   Cada evento contiene un listado de enlaces web (links) que apuntan a páginas HTML que integran reproductores web dinámicos en lugar de streams de video directos.
+   * Ejemplo: https://sudamericaplay.sbs/canal_8112/cza_dsports.html
+
+2. Invocación del Sniffer Nativo:
+   Al seleccionar una opción, Flutter envía la URL al MethodChannel nativo maglinktv/sniffer invocando al método resolve(url, timeoutMs).
+
+3. WebView Oculta con Inyección JS:
+   La clase nativa StreamSniffer.java realiza las siguientes operaciones:
+   * Inicializa una WebView invisible en segundo plano.
+   * Modifica el User-Agent de la WebView para simular un navegador de escritorio (Chrome en Windows) y evitar bloqueos por parte del servidor.
+   * Registra una interfaz JavaScript-Java llamada AndroidSniffer.
+   * Carga la URL de la página que contiene el reproductor.
+   * Al finalizar la carga (onPageFinished), inyecta y evalúa un script JavaScript (HOOK_JS):
+     * Intercepta APIs de Red: Sobrescribe las funciones globales window.fetch y XMLHttpRequest.prototype.open de la página para examinar cualquier endpoint consultado en segundo plano.
+     * Inspección del DOM y Performance API: Lee periódicamente las direcciones de recursos de red ya cargadas por el navegador y busca en el código fuente de la página expresiones regulares compatibles con archivos de video HLS o DASH (.m3u8 o .mpd).
+     * Filtro de Red Nativo: A nivel Java, shouldInterceptRequest de la WebView monitorea en segundo plano todo el tráfico HTTP de la página web buscando extensiones .m3u8 o .mpd.
+
+4. Captura y Envío de la URL Limpia:
+   * En cuanto se detecta la URL directa del stream, la WebView invoca AndroidSniffer.onStream(streamUrl).
+   * La clase nativa detiene inmediatamente la carga del sitio web (webView.stopLoading()) y la destruye para optimizar memoria.
+   * Retorna a Flutter un mapa con la URL directa del stream y las cabeceras necesarias (User-Agent de PC simulado y Referer original) para burlar la seguridad de la CDN de transmisión.
+
+5. Reproducción:
+   Flutter recibe la información y la inyecta de forma nativa en el reproductor ExoPlayer de Android a través de la clase ExoPlayerPlatformView.java, reproduciendo la señal limpia de anuncios y elementos web.

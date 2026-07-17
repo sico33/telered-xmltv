@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="ad_marker_color" format="color">
+    </attr>
+    <attr name="ad_marker_width" format="dimension">
+    </attr>
+    <attr name="alpha" format="float">
+    </attr>
+    <attr name="animation_enabled" format="boolean">
+    </attr>
+    <attr name="artwork_display_mode">
+        <enum name="off" value="0" />
+        <enum name="fit" value="1" />
+        <enum name="fill" value="2" />
+    </attr>
+    <attr name="auto_show" format="boolean">
+    </attr>
+    <attr name="backgroundTint" format="color">
+    </attr>
+    <attr name="bar_gravity">
+        <enum name="center" value="0" />
+        <enum name="bottom" value="1" />
+    </attr>
+    <attr name="bar_height" format="dimension">
+    </attr>
+    <attr name="buffered_color" format="color">
+    </attr>
+    <attr name="controller_layout_id" format="reference">
+    </attr>
+    <attr name="default_artwork" format="reference">
+    </attr>
+    <attr name="fastScrollEnabled" format="boolean">
+    </attr>
+    <attr name="fastScrollHorizontalThumbDrawable" format="reference">
+    </attr>
+    <attr name="fastScrollHorizontalTrackDrawable" format="reference">
+    </attr>
+    <attr name="fastScrollVerticalThumbDrawable" format="reference">
+    </attr>
+    <attr name="fastScrollVerticalTrackDrawable" format="reference">
+    </attr>
+    <attr name="fastforward_icon" format="reference">
+    </attr>
+    <attr name="font" format="reference">
+    </attr>
+    <attr name="fontProviderAuthority" format="string">
+    </attr>
+    <attr name="fontProviderCerts" format="reference">
+    </attr>
+    <attr name="fontProviderFetchStrategy">
+        <enum name="blocking" value="0" />
+        <enum name="async" value="1" />
+    </attr>
+    <attr name="fontProviderFetchTimeout" format="integer">
+        <enum name="forever" value="-1" />
+    </attr>
+    <attr name="fontProviderPackage" format="string">
+    </attr>
+    <attr name="fontProviderQuery" format="string">
+    </attr>
+    <attr name="fontProviderSystemFontFamily" format="string">
+    </attr>
+    <attr name="fontStyle">
+        <enum name="normal" value="0" />
+        <enum name="italic" value="1" />
+    </attr>
+    <attr name="fontVariationSettings" format="string">
+    </attr>
+    <attr name="fontWeight" format="integer">
+    </attr>
+    <attr name="fullscreen_enter_icon" format="reference">
+    </attr>
+    <attr name="fullscreen_exit_icon" format="reference">
+    </attr>
+    <attr name="hide_during_ads" format="boolean">
+    </attr>
+    <attr name="hide_on_touch" format="boolean">
+    </attr>
+    <attr name="image_display_mode">
+        <enum name="fit" value="0" />
+        <enum name="fill" value="1" />
+    </attr>
+    <attr name="keep_content_on_player_reset" format="boolean">
+    </attr>
+    <attr name="lStar" format="float">
+    </attr>
+    <attr name="layoutManager" format="string">
+    </attr>
+    <attr name="nestedScrollViewStyle" format="reference">
+    </attr>
+    <attr name="next_icon" format="reference">
+    </attr>
+    <attr name="pause_icon" format="reference">
+    </attr>
+    <attr name="play_icon" format="reference">
+    </attr>
+    <attr name="played_ad_marker_color" format="color">
+    </attr>
+    <attr name="played_color" format="color">
+    </attr>
+    <attr name="player_layout_id" format="reference">
+    </attr>
+    <attr name="previous_icon" format="reference">
+    </attr>
+    <attr name="queryPatterns" format="reference">
+    </attr>
+    <attr name="recyclerViewStyle" format="reference">
+    </attr>
+    <attr name="repeat_all_icon" format="reference">
+    </attr>
+    <attr name="repeat_off_icon" format="reference">
+    </attr>
+    <attr name="repeat_one_icon" format="reference">
+    </attr>
+    <attr name="repeat_toggle_modes">
+        <flag name="none" value="0" />
+        <flag name="one" value="1" />
+        <flag name="all" value="2" />
+    </attr>
+    <attr name="resize_mode">
+        <enum name="fit" value="0" />
+        <enum name="fixed_width" value="1" />
+        <enum name="fixed_height" value="2" />
+        <enum name="fill" value="3" />
+        <enum name="zoom" value="4" />
+    </attr>
+    <attr name="reverseLayout" format="boolean">
+    </attr>
+    <attr name="rewind_icon" format="reference">
+    </attr>
+    <attr name="scrubber_color" format="color">
+    </attr>
+    <attr name="scrubber_disabled_size" format="dimension">
+    </attr>
+    <attr name="scrubber_dragged_size" format="dimension">
+    </attr>
+    <attr name="scrubber_drawable" format="reference">
+    </attr>
+    <attr name="scrubber_enabled_size" format="dimension">
+    </attr>
+    <attr name="shortcutMatchRequired" format="boolean">
+    </attr>
+    <attr name="show_buffering">
+        <enum name="never" value="0" />
+        <enum name="when_playing" value="1" />
+        <enum name="always" value="2" />
+    </attr>
+    <attr name="show_fastforward_button" format="boolean">
+    </attr>
+    <attr name="show_next_button" format="boolean">
+    </attr>
+    <attr name="show_previous_button" format="boolean">
+    </attr>
+    <attr name="show_rewind_button" format="boolean">
+    </attr>
+    <attr name="show_shuffle_button" format="boolean">
+    </attr>
+    <attr name="show_subtitle_button" format="boolean">
+    </attr>
+    <attr name="show_timeout" format="integer">
+    </attr>
+    <attr name="show_vr_button" format="boolean">
+    </attr>
+    <attr name="shuffle_off_icon" format="reference">
+    </attr>
+    <attr name="shuffle_on_icon" format="reference">
+    </attr>
+    <attr name="shutter_background_color" format="color">
+    </attr>
+    <attr name="spanCount" format="integer">
+    </attr>
+    <attr name="stackFromEnd" format="boolean">
+    </attr>
+    <attr name="subtitle_off_icon" format="reference">
+    </attr>
+    <attr name="subtitle_on_icon" format="reference">
+    </attr>
+    <attr name="surface_type">
+        <enum name="none" value="0" />
+        <enum name="surface_view" value="1" />
+        <enum name="texture_view" value="2" />
+        <enum name="spherical_gl_surface_view" value="3" />
+        <enum name="video_decoder_gl_surface_view" value="4" />
+    </attr>
+    <attr name="time_bar_min_update_interval" format="integer">
+    </attr>
+    <attr name="touch_target_height" format="dimension">
+    </attr>
+    <attr name="ttcIndex" format="integer">
+    </attr>
+    <attr name="unplayed_color" format="color">
+    </attr>
+    <attr name="use_artwork" format="boolean">
+    </attr>
+    <attr name="use_controller" format="boolean">
+    </attr>
+    <attr name="vr_icon" format="reference">
+    </attr>
+</resources>
