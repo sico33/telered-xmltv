@@ -87,28 +87,64 @@ def procesar_grilla():
             display_name = ET.SubElement(channel_node, "display-name")
             display_name.text = f"{id_canal} - {nombre_canal}"
 
+        programas_canal = []
+        horas_vistas = set()
+        current_day_offset = 0
+        prev_hour = -1
+
         progs_en_fila = fila.find_all(['a', 'div', 'p', 'span'])
         for p in progs_en_fila:
             texto_p = p.get_text(" ", strip=True)
             match_hora = re.search(r'(\d{2}):(\d{2})', texto_p)
             if not match_hora: continue
             
-            hora_inicio = fecha_base.replace(hour=int(match_hora.group(1)), minute=int(match_hora.group(2)))
+            hora_str = match_hora.group(0)
+            if hora_str in horas_vistas:
+                continue
+                
+            h = int(match_hora.group(1))
+            m = int(match_hora.group(2))
+            
+            if prev_hour != -1 and h < prev_hour:
+                if prev_hour - h > 6:
+                    current_day_offset += 1
+            
+            prev_hour = h
+            hora_inicio = (fecha_base + timedelta(days=current_day_offset)).replace(hour=h, minute=m)
+            
             titulo_limpio = texto_p.replace(match_hora.group(0), "").replace("hs", "").strip()
             titulo_limpio = re.sub(r'\s+', ' ', titulo_limpio)
             
             if not titulo_limpio or titulo_limpio.isdigit() or len(titulo_limpio) < 3:
                 continue
 
+            horas_vistas.add(hora_str)
+            programas_canal.append({
+                'start': hora_inicio,
+                'title': titulo_limpio
+            })
+
+        # Sort and write
+        programas_canal.sort(key=lambda x: x['start'])
+        for i, prog in enumerate(programas_canal):
+            hora_inicio = prog['start']
+            if i < len(programas_canal) - 1:
+                hora_fin = programas_canal[i+1]['start']
+                if hora_fin <= hora_inicio:
+                    hora_fin = hora_inicio + timedelta(hours=1)
+            else:
+                hora_fin = hora_inicio + timedelta(hours=2)
+
             prog_node = ET.SubElement(root, "programme")
             prog_node.set("start", formatear_fecha_xmltv(hora_inicio))
-            prog_node.set("stop", formatear_fecha_xmltv(hora_inicio + timedelta(hours=1)))
+            prog_node.set("stop", formatear_fecha_xmltv(hora_fin))
             prog_node.set("channel", f"canal.{id_canal}")
 
             title_node = ET.SubElement(prog_node, "title")
             title_node.set("lang", "es")
-            title_node.text = titulo_limpio
+            title_node.text = prog['title']
             contador_programas += 1
+
 
     xml_str = ET.tostring(root, encoding="utf-8")
     parsed_xml = minidom.parseString(xml_str)
