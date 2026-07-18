@@ -4,28 +4,28 @@
     <display-name>1 - A1</display-name>
   </channel>
   <programme start="20260718000000 -0300" stop="20260718030000 -0300" channel="canal.1">
-    <title lang="es">Canal de informaciÃ³n</title>
+    <title lang="es">Canal de información</title>
   </programme>
   <programme start="20260718030000 -0300" stop="20260718060000 -0300" channel="canal.1">
-    <title lang="es">Canal de informaciÃ³n</title>
+    <title lang="es">Canal de información</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718090000 -0300" channel="canal.1">
-    <title lang="es">Canal de informaciÃ³n</title>
+    <title lang="es">Canal de información</title>
   </programme>
   <programme start="20260718090000 -0300" stop="20260718120000 -0300" channel="canal.1">
-    <title lang="es">Canal de informaciÃ³n</title>
+    <title lang="es">Canal de información</title>
   </programme>
   <programme start="20260718120000 -0300" stop="20260718150000 -0300" channel="canal.1">
-    <title lang="es">Canal de informaciÃ³n</title>
+    <title lang="es">Canal de información</title>
   </programme>
   <programme start="20260718150000 -0300" stop="20260718180000 -0300" channel="canal.1">
-    <title lang="es">Canal de informaciÃ³n</title>
+    <title lang="es">Canal de información</title>
   </programme>
   <programme start="20260718180000 -0300" stop="20260718210000 -0300" channel="canal.1">
-    <title lang="es">Canal de informaciÃ³n</title>
+    <title lang="es">Canal de información</title>
   </programme>
   <programme start="20260718210000 -0300" stop="20260718230000 -0300" channel="canal.1">
-    <title lang="es">Canal de informaciÃ³n</title>
+    <title lang="es">Canal de información</title>
   </programme>
   <channel id="canal.2">
     <display-name>2 - A24</display-name>
@@ -49,7 +49,7 @@
     <title lang="es">Lo mejor de A24</title>
   </programme>
   <programme start="20260718070000 -0300" stop="20260718140000 -0300" channel="canal.2">
-    <title lang="es">Vivo el sÃ¡bado x A24</title>
+    <title lang="es">Vivo el sábado x A24</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718143000 -0300" channel="canal.2">
     <title lang="es">A24 Internacional</title>
@@ -82,10 +82,10 @@
     <title lang="es">Argenzuela</title>
   </programme>
   <programme start="20260718040000 -0300" stop="20260718053000 -0300" channel="canal.3">
-    <title lang="es">La Ãºltima pregunta</title>
+    <title lang="es">La última pregunta</title>
   </programme>
   <programme start="20260718053000 -0300" stop="20260718070000 -0300" channel="canal.3">
-    <title lang="es">TelevisiÃ³n registrada</title>
+    <title lang="es">Televisión registrada</title>
   </programme>
   <programme start="20260718070000 -0300" stop="20260718090000 -0300" channel="canal.3">
     <title lang="es">Bien temprano</title>
@@ -106,7 +106,7 @@
     <title lang="es">Especial Mundial</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260718233000 -0300" channel="canal.3">
-    <title lang="es">TelevisiÃ³n registrada</title>
+    <title lang="es">Televisión registrada</title>
   </programme>
   <programme start="20260718233000 -0300" stop="20260719013000 -0300" channel="canal.3">
     <title lang="es">C5N a fondo</title>
@@ -130,7 +130,7 @@
     <title lang="es">Iglesia de la ciudad</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718080000 -0300" channel="canal.4">
-    <title lang="es">CrÃ³nica a la maÃ±ana</title>
+    <title lang="es">Crónica a la mañana</title>
   </programme>
   <programme start="20260718080000 -0300" stop="20260718110000 -0300" channel="canal.4">
     <title lang="es">Hoy es mejor</title>
@@ -139,16 +139,16 @@
     <title lang="es">El defensor</title>
   </programme>
   <programme start="20260718130000 -0300" stop="20260718160000 -0300" channel="canal.4">
-    <title lang="es">CrÃ³nica al mediodÃ­a</title>
+    <title lang="es">Crónica al mediodía</title>
   </programme>
   <programme start="20260718160000 -0300" stop="20260718180000 -0300" channel="canal.4">
-    <title lang="es">El runrÃºn del espectÃ¡culo</title>
+    <title lang="es">El runrún del espectáculo</title>
   </programme>
   <programme start="20260718180000 -0300" stop="20260718200000 -0300" channel="canal.4">
-    <title lang="es">CrÃ³nica Noticias sÃ¡bado</title>
+    <title lang="es">Crónica Noticias sábado</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718220000 -0300" channel="canal.4">
-    <title lang="es">Intensos, con TomÃ¡s Dente</title>
+    <title lang="es">Intensos, con Tomás Dente</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260718230000 -0300" channel="canal.4">
     <title lang="es">Las nuevas tragedias de los famosos</title>
@@ -178,7 +178,7 @@
     <title lang="es">Fin de semana</title>
   </programme>
   <programme start="20260718100000 -0300" stop="20260718130000 -0300" channel="canal.5">
-    <title lang="es">El diario del sÃ¡bado</title>
+    <title lang="es">El diario del sábado</title>
   </programme>
   <programme start="20260718130000 -0300" stop="20260718140000 -0300" channel="canal.5">
     <title lang="es">El turismo y la hospitalidad</title>
@@ -223,13 +223,13 @@
     <title lang="es">La trama</title>
   </programme>
   <programme start="20260718040000 -0300" stop="20260718060000 -0300" channel="canal.6">
-    <title lang="es">+Info SÃ¡bado</title>
+    <title lang="es">+Info Sábado</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718070000 -0300" channel="canal.6">
     <title lang="es">Hambre de futuro</title>
   </programme>
   <programme start="20260718070000 -0300" stop="20260718090000 -0300" channel="canal.6">
-    <title lang="es">+ MaÃ±ana</title>
+    <title lang="es">+ Mañana</title>
   </programme>
   <programme start="20260718090000 -0300" stop="20260718130000 -0300" channel="canal.6">
     <title lang="es">+Info finde</title>
@@ -241,7 +241,7 @@
     <title lang="es">+Noticias Finde</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718220000 -0300" channel="canal.6">
-    <title lang="es">+Info SÃ¡bado</title>
+    <title lang="es">+Info Sábado</title>
   </programme>
   <channel id="canal.7">
     <display-name>7 - TN</display-name>
@@ -277,7 +277,7 @@
     <title lang="es">Todo noticias</title>
   </programme>
   <programme start="20260718163000 -0300" stop="20260718210000 -0300" channel="canal.7">
-    <title lang="es">SÃ¡bado en TN</title>
+    <title lang="es">Sábado en TN</title>
   </programme>
   <programme start="20260718210000 -0300" stop="20260718230000 -0300" channel="canal.7">
     <title lang="es">El corresponsal</title>
@@ -289,7 +289,7 @@
     <display-name>8 - CIUDAD MAGAZINE</display-name>
   </channel>
   <programme start="20260718000000 -0300" stop="20260718003000 -0300" channel="canal.8">
-    <title lang="es">InterÃ©s mutuo</title>
+    <title lang="es">Interés mutuo</title>
   </programme>
   <programme start="20260718003000 -0300" stop="20260718010000 -0300" channel="canal.8">
     <title lang="es">Dar en la nota</title>
@@ -298,10 +298,10 @@
     <title lang="es">Vida Purita</title>
   </programme>
   <programme start="20260718013000 -0300" stop="20260718020000 -0300" channel="canal.8">
-    <title lang="es">Construyendo sueÃ±os TV</title>
+    <title lang="es">Construyendo sueños TV</title>
   </programme>
   <programme start="20260718020000 -0300" stop="20260718060000 -0300" channel="canal.8">
-    <title lang="es">InterÃ©s mutuo</title>
+    <title lang="es">Interés mutuo</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718063000 -0300" channel="canal.8">
     <title lang="es">Dar en la nota</title>
@@ -325,13 +325,13 @@
     <title lang="es">Duro de cuidar 2</title>
   </programme>
   <programme start="20260718141500 -0300" stop="20260718160000 -0300" channel="canal.8">
-    <title lang="es">Mas allÃ¡ del peligro</title>
+    <title lang="es">Mas allá del peligro</title>
   </programme>
   <programme start="20260718160000 -0300" stop="20260718180000 -0300" channel="canal.8">
     <title lang="es">Matar al mensajero</title>
   </programme>
   <programme start="20260718180000 -0300" stop="20260718200000 -0300" channel="canal.8">
-    <title lang="es">Terminator: La salvaciÃ³n</title>
+    <title lang="es">Terminator: La salvación</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718214500 -0300" channel="canal.8">
     <title lang="es">Sabotaje</title>
@@ -343,10 +343,10 @@
     <display-name>10 - AMERICA TV</display-name>
   </channel>
   <programme start="20260718000000 -0300" stop="20260718003000 -0300" channel="canal.10">
-    <title lang="es">PolÃ©mica en el bar - Mundial</title>
+    <title lang="es">Polémica en el bar - Mundial</title>
   </programme>
   <programme start="20260718003000 -0300" stop="20260718010000 -0300" channel="canal.10">
-    <title lang="es">MaratÃ³n PasiÃ³n de sÃ¡bado</title>
+    <title lang="es">Maratón Pasión de sábado</title>
   </programme>
   <programme start="20260718010000 -0300" stop="20260718020000 -0300" channel="canal.10">
     <title lang="es">El valor de tus joyas</title>
@@ -358,7 +358,7 @@
     <title lang="es">Problemas y soluciones</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718080000 -0300" channel="canal.10">
-    <title lang="es">MaratÃ³n SQP</title>
+    <title lang="es">Maratón SQP</title>
   </programme>
   <programme start="20260718080000 -0300" stop="20260718100000 -0300" channel="canal.10">
     <title lang="es">TeveCompras</title>
@@ -376,13 +376,13 @@
     <title lang="es">Modo Selfie</title>
   </programme>
   <programme start="20260718130000 -0300" stop="20260718195000 -0300" channel="canal.10">
-    <title lang="es">PasiÃ³n de sÃ¡bado</title>
+    <title lang="es">Pasión de sábado</title>
   </programme>
   <programme start="20260718195000 -0300" stop="20260718220000 -0300" channel="canal.10">
     <title lang="es">Secretos verdaderos</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260719000000 -0300" channel="canal.10">
-    <title lang="es">Argentina de pelÃ­cula</title>
+    <title lang="es">Argentina de película</title>
   </programme>
   <channel id="canal.11">
     <display-name>11 - TELEFE</display-name>
@@ -403,10 +403,10 @@
     <title lang="es">Disney Junior</title>
   </programme>
   <programme start="20260718073000 -0300" stop="20260718091500 -0300" channel="canal.11">
-    <title lang="es">CortÃ¡ por Lozano</title>
+    <title lang="es">Cortá por Lozano</title>
   </programme>
   <programme start="20260718091500 -0300" stop="20260718110000 -0300" channel="canal.11">
-    <title lang="es">El Chavo y el ChapulÃ­n colorado</title>
+    <title lang="es">El Chavo y el Chapulín colorado</title>
   </programme>
   <programme start="20260718110000 -0300" stop="20260718170000 -0300" channel="canal.11">
     <title lang="es">Los Simpson</title>
@@ -436,7 +436,7 @@
     <title lang="es">Feliz vida</title>
   </programme>
   <programme start="20260718010000 -0300" stop="20260718064500 -0300" channel="canal.12">
-    <title lang="es">Fin de transmisiÃ³n</title>
+    <title lang="es">Fin de transmisión</title>
   </programme>
   <programme start="20260718064500 -0300" stop="20260718070000 -0300" channel="canal.12">
     <title lang="es">Documentales TVP</title>
@@ -448,16 +448,16 @@
     <title lang="es">Claves para un mundo mejor</title>
   </programme>
   <programme start="20260718083000 -0300" stop="20260718100000 -0300" channel="canal.12">
-    <title lang="es">Nuestro ejÃ©rcito</title>
+    <title lang="es">Nuestro ejército</title>
   </programme>
   <programme start="20260718100000 -0300" stop="20260718123000 -0300" channel="canal.12">
     <title lang="es">Copa Mundial de la FIFA 2026</title>
   </programme>
   <programme start="20260718123000 -0300" stop="20260718140000 -0300" channel="canal.12">
-    <title lang="es">TPA Noticias - EdiciÃ³n especial</title>
+    <title lang="es">TPA Noticias - Edición especial</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718150000 -0300" channel="canal.12">
-    <title lang="es">Especial - Las maÃ±anas con Andino</title>
+    <title lang="es">Especial - Las mañanas con Andino</title>
   </programme>
   <programme start="20260718150000 -0300" stop="20260718174500 -0300" channel="canal.12">
     <title lang="es">Zona mixta, modo finde</title>
@@ -487,16 +487,16 @@
     <title lang="es">Cucinare</title>
   </programme>
   <programme start="20260718001500 -0300" stop="20260718010000 -0300" channel="canal.13">
-    <title lang="es">En sÃ­ntesis</title>
+    <title lang="es">En síntesis</title>
   </programme>
   <programme start="20260718010000 -0300" stop="20260718011500 -0300" channel="canal.13">
     <title lang="es">Cucinare</title>
   </programme>
   <programme start="20260718011500 -0300" stop="20260718063000 -0300" channel="canal.13">
-    <title lang="es">Fin de transmisiÃ³n</title>
+    <title lang="es">Fin de transmisión</title>
   </programme>
   <programme start="20260718063000 -0300" stop="20260718074500 -0300" channel="canal.13">
-    <title lang="es">Fin de transmisiÃ³n</title>
+    <title lang="es">Fin de transmisión</title>
   </programme>
   <programme start="20260718074500 -0300" stop="20260718090000 -0300" channel="canal.13">
     <title lang="es">A confirmar</title>
@@ -520,7 +520,7 @@
     <title lang="es">La noche de Mirtha</title>
   </programme>
   <programme start="20260718223000 -0300" stop="20260718231500 -0300" channel="canal.13">
-    <title lang="es">Otro dÃ­a perdido</title>
+    <title lang="es">Otro día perdido</title>
   </programme>
   <programme start="20260718231500 -0300" stop="20260719011500 -0300" channel="canal.13">
     <title lang="es">Resto del mundo</title>
@@ -556,7 +556,7 @@
     <title lang="es">Prevenir</title>
   </programme>
   <programme start="20260718103000 -0300" stop="20260718110000 -0300" channel="canal.14">
-    <title lang="es">AutomÃ¡s</title>
+    <title lang="es">Automás</title>
   </programme>
   <programme start="20260718110000 -0300" stop="20260718130000 -0300" channel="canal.14">
     <title lang="es">Entrenamiento - Automovilismo Argentino</title>
@@ -565,7 +565,7 @@
     <title lang="es">La cocina del TC</title>
   </programme>
   <programme start="20260718150000 -0300" stop="20260718170000 -0300" channel="canal.14">
-    <title lang="es">ClasificaciÃ³n - Automovilismo Argentino</title>
+    <title lang="es">Clasificación - Automovilismo Argentino</title>
   </programme>
   <programme start="20260718170000 -0300" stop="20260718180000 -0300" channel="canal.14">
     <title lang="es">Nara que ver</title>
@@ -577,7 +577,7 @@
     <title lang="es">Con estilo</title>
   </programme>
   <programme start="20260718210000 -0300" stop="20260718223000 -0300" channel="canal.14">
-    <title lang="es">SÃ¡bados con Jey</title>
+    <title lang="es">Sábados con Jey</title>
   </programme>
   <programme start="20260718223000 -0300" stop="20260718233000 -0300" channel="canal.14">
     <title lang="es">Con todo respeto</title>
@@ -589,7 +589,7 @@
     <display-name>15 - NET TV</display-name>
   </channel>
   <programme start="20260718000000 -0300" stop="20260718010000 -0300" channel="canal.15">
-    <title lang="es">FÃ³rmula fÃºtbol</title>
+    <title lang="es">Fórmula fútbol</title>
   </programme>
   <programme start="20260718010000 -0300" stop="20260718020000 -0300" channel="canal.15">
     <title lang="es">TV compras</title>
@@ -598,7 +598,7 @@
     <title lang="es">El valor de tus joyas</title>
   </programme>
   <programme start="20260718050000 -0300" stop="20260718060000 -0300" channel="canal.15">
-    <title lang="es">El seÃ±or de los cielos</title>
+    <title lang="es">El señor de los cielos</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718070000 -0300" channel="canal.15">
     <title lang="es">TV compras</title>
@@ -637,7 +637,7 @@
     <title lang="es">Net TV</title>
   </programme>
   <programme start="20260718223000 -0300" stop="20260719003000 -0300" channel="canal.15">
-    <title lang="es">El seÃ±or de los cielos</title>
+    <title lang="es">El señor de los cielos</title>
   </programme>
   <channel id="canal.16">
     <display-name>16 - ENCUENTRO</display-name>
@@ -664,16 +664,16 @@
     <title lang="es">Presidio. Experimento Ushuaia</title>
   </programme>
   <programme start="20260718070000 -0300" stop="20260718073000 -0300" channel="canal.16">
-    <title lang="es">DiÃ¡logos en el tiempo</title>
+    <title lang="es">Diálogos en el tiempo</title>
   </programme>
   <programme start="20260718073000 -0300" stop="20260718080000 -0300" channel="canal.16">
-    <title lang="es">Historias de adopciÃ³n</title>
+    <title lang="es">Historias de adopción</title>
   </programme>
   <programme start="20260718080000 -0300" stop="20260718120000 -0300" channel="canal.16">
     <title lang="es">La isla sumergida</title>
   </programme>
   <programme start="20260718120000 -0300" stop="20260718123000 -0300" channel="canal.16">
-    <title lang="es">AntÃ¡rtida, desafÃ­o polar</title>
+    <title lang="es">Antártida, desafío polar</title>
   </programme>
   <programme start="20260718123000 -0300" stop="20260718130000 -0300" channel="canal.16">
     <title lang="es">El loco de los huesos. Juicio a Florentino Ameghino</title>
@@ -685,7 +685,7 @@
     <title lang="es">Soy del pueblo</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718180000 -0300" channel="canal.16">
-    <title lang="es">Un loco deseo de belleza, la traiciÃ³n de Manuel Puig</title>
+    <title lang="es">Un loco deseo de belleza, la traición de Manuel Puig</title>
   </programme>
   <programme start="20260718180000 -0300" stop="20260718183000 -0300" channel="canal.16">
     <title lang="es">En su justa medida</title>
@@ -772,19 +772,19 @@
     <title lang="es">Gracias por los servicios</title>
   </programme>
   <programme start="20260718013000 -0300" stop="20260718030000 -0300" channel="canal.18">
-    <title lang="es">Un idilio de estaciÃ³n</title>
+    <title lang="es">Un idilio de estación</title>
   </programme>
   <programme start="20260718030000 -0300" stop="20260718050000 -0300" channel="canal.18">
-    <title lang="es">Matrimonios y algo mÃ¡s</title>
+    <title lang="es">Matrimonios y algo más</title>
   </programme>
   <programme start="20260718050000 -0300" stop="20260718063000 -0300" channel="canal.18">
     <title lang="es">Monumental Moria</title>
   </programme>
   <programme start="20260718063000 -0300" stop="20260718070000 -0300" channel="canal.18">
-    <title lang="es">El flequillo de BalÃ¡</title>
+    <title lang="es">El flequillo de Balá</title>
   </programme>
   <programme start="20260718070000 -0300" stop="20260718084000 -0300" channel="canal.18">
-    <title lang="es">Quiero llenarme de tÃ­</title>
+    <title lang="es">Quiero llenarme de tí</title>
   </programme>
   <programme start="20260718084000 -0300" stop="20260718100000 -0300" channel="canal.18">
     <title lang="es">El picnic de los Campanelli</title>
@@ -793,16 +793,16 @@
     <title lang="es">1002 momentos de la TV</title>
   </programme>
   <programme start="20260718120000 -0300" stop="20260718130000 -0300" channel="canal.18">
-    <title lang="es">ArguiÃ±ano en tu cocina</title>
+    <title lang="es">Arguiñano en tu cocina</title>
   </programme>
   <programme start="20260718130000 -0300" stop="20260718140000 -0300" channel="canal.18">
     <title lang="es">La risa es bella</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718154000 -0300" channel="canal.18">
-    <title lang="es">Encuentros muy cercanos con seÃ±oras de cualquier tipo</title>
+    <title lang="es">Encuentros muy cercanos con señoras de cualquier tipo</title>
   </programme>
   <programme start="20260718154000 -0300" stop="20260718170000 -0300" channel="canal.18">
-    <title lang="es">El gordo de AmÃ©rica</title>
+    <title lang="es">El gordo de América</title>
   </programme>
   <programme start="20260718170000 -0300" stop="20260718180000 -0300" channel="canal.18">
     <title lang="es">Volver a enamorarse</title>
@@ -883,7 +883,7 @@
     <title lang="es">Liga Profesional 2026</title>
   </programme>
   <programme start="20260718120000 -0300" stop="20260718130000 -0300" channel="canal.21">
-    <title lang="es">Recuerdos de selecciÃ³n</title>
+    <title lang="es">Recuerdos de selección</title>
   </programme>
   <programme start="20260718130000 -0300" stop="20260718134500 -0300" channel="canal.21">
     <title lang="es">Pensiones</title>
@@ -964,10 +964,10 @@
     <display-name>23 - FOX SPORTS HD</display-name>
   </channel>
   <programme start="20260718010000 -0300" stop="20260718020000 -0300" channel="canal.23">
-    <title lang="es">Ojo el caÃ±o</title>
+    <title lang="es">Ojo el caño</title>
   </programme>
   <programme start="20260718020000 -0300" stop="20260718040000 -0300" channel="canal.23">
-    <title lang="es">FÃ³rmula 1</title>
+    <title lang="es">Fórmula 1</title>
   </programme>
   <programme start="20260718040000 -0300" stop="20260718050000 -0300" channel="canal.23">
     <title lang="es">Proyecto 86</title>
@@ -976,22 +976,22 @@
     <title lang="es">La vuelta</title>
   </programme>
   <programme start="20260718070000 -0300" stop="20260718072500 -0300" channel="canal.23">
-    <title lang="es">TelemÃ©trico</title>
+    <title lang="es">Telemétrico</title>
   </programme>
   <programme start="20260718072500 -0300" stop="20260718083500 -0300" channel="canal.23">
-    <title lang="es">PrÃ¡ctica - FÃ³rmula 1</title>
+    <title lang="es">Práctica - Fórmula 1</title>
   </programme>
   <programme start="20260718083500 -0300" stop="20260718090000 -0300" channel="canal.23">
-    <title lang="es">TelemÃ©trico</title>
+    <title lang="es">Telemétrico</title>
   </programme>
   <programme start="20260718090000 -0300" stop="20260718105500 -0300" channel="canal.23">
     <title lang="es">Proyecto 86</title>
   </programme>
   <programme start="20260718105500 -0300" stop="20260718121500 -0300" channel="canal.23">
-    <title lang="es">ClasificaciÃ³n - FÃ³rmula 1</title>
+    <title lang="es">Clasificación - Fórmula 1</title>
   </programme>
   <programme start="20260718121500 -0300" stop="20260718130000 -0300" channel="canal.23">
-    <title lang="es">TelemÃ©trico</title>
+    <title lang="es">Telemétrico</title>
   </programme>
   <programme start="20260718130000 -0300" stop="20260718143000 -0300" channel="canal.23">
     <title lang="es">Proyecto 86</title>
@@ -1003,10 +1003,10 @@
     <title lang="es">Proyecto 86</title>
   </programme>
   <programme start="20260718180000 -0300" stop="20260718190000 -0300" channel="canal.23">
-    <title lang="es">PrÃ¡ctica - FÃ³rmula 1</title>
+    <title lang="es">Práctica - Fórmula 1</title>
   </programme>
   <programme start="20260718190000 -0300" stop="20260718203000 -0300" channel="canal.23">
-    <title lang="es">ClasificaciÃ³n - FÃ³rmula 1</title>
+    <title lang="es">Clasificación - Fórmula 1</title>
   </programme>
   <programme start="20260718203000 -0300" stop="20260718210000 -0300" channel="canal.23">
     <title lang="es">Show UEFA Champions League</title>
@@ -1039,7 +1039,7 @@
     <title lang="es">Solo Hockey</title>
   </programme>
   <programme start="20260718070000 -0300" stop="20260718080000 -0300" channel="canal.24">
-    <title lang="es">La cocina del fÃºtbol</title>
+    <title lang="es">La cocina del fútbol</title>
   </programme>
   <programme start="20260718080000 -0300" stop="20260718090000 -0300" channel="canal.24">
     <title lang="es">Show Turf</title>
@@ -1159,16 +1159,16 @@
     <title lang="es">F Nacional</title>
   </programme>
   <programme start="20260718010000 -0300" stop="20260718030000 -0300" channel="canal.27">
-    <title lang="es">ESPN Compact - Premier Padel - MÃ¡laga P1</title>
+    <title lang="es">ESPN Compact - Premier Padel - Málaga P1</title>
   </programme>
   <programme start="20260718030000 -0300" stop="20260718040000 -0300" channel="canal.27">
     <title lang="es">ESPN KnockOut</title>
   </programme>
   <programme start="20260718040000 -0300" stop="20260718045500 -0300" channel="canal.27">
-    <title lang="es">ClasificaciÃ³n - FÃ³rmula 2</title>
+    <title lang="es">Clasificación - Fórmula 2</title>
   </programme>
   <programme start="20260718045500 -0300" stop="20260718055500 -0300" channel="canal.27">
-    <title lang="es">FÃ³rmula 3 - Carrera Sprint</title>
+    <title lang="es">Fórmula 3 - Carrera Sprint</title>
   </programme>
   <programme start="20260718055500 -0300" stop="20260718073000 -0300" channel="canal.27">
     <title lang="es">SportsCenter+</title>
@@ -1180,10 +1180,10 @@
     <title lang="es">SportsCenter+</title>
   </programme>
   <programme start="20260718110000 -0300" stop="20260718112000 -0300" channel="canal.27">
-    <title lang="es">Marc MÃ¡rquez - MÃ¡s que un regreso: La etapa Honda</title>
+    <title lang="es">Marc Márquez - Más que un regreso: La etapa Honda</title>
   </programme>
   <programme start="20260718112000 -0300" stop="20260718123000 -0300" channel="canal.27">
-    <title lang="es">FÃ³rmula 2 - Carrera Sprint</title>
+    <title lang="es">Fórmula 2 - Carrera Sprint</title>
   </programme>
   <programme start="20260718123000 -0300" stop="20260718132000 -0300" channel="canal.27">
     <title lang="es">SportsCenter+</title>
@@ -1210,7 +1210,7 @@
     <title lang="es">R&amp;A Golf - The Open Championship</title>
   </programme>
   <programme start="20260718000500 -0300" stop="20260718010000 -0300" channel="canal.28">
-    <title lang="es">ClasificaciÃ³n - FÃ³rmula 2</title>
+    <title lang="es">Clasificación - Fórmula 2</title>
   </programme>
   <programme start="20260718010000 -0300" stop="20260718040000 -0300" channel="canal.28">
     <title lang="es">MLB</title>
@@ -1225,7 +1225,7 @@
     <title lang="es">Rugby Nations Championship</title>
   </programme>
   <programme start="20260718074000 -0300" stop="20260718080000 -0300" channel="canal.28">
-    <title lang="es">CampeÃ³n Premiership 2026</title>
+    <title lang="es">Campeón Premiership 2026</title>
   </programme>
   <programme start="20260718080000 -0300" stop="20260718160000 -0300" channel="canal.28">
     <title lang="es">R&amp;A Golf - The Open Championship</title>
@@ -1234,16 +1234,16 @@
     <title lang="es">ESPN Knockout</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718210000 -0300" channel="canal.28">
-    <title lang="es">FÃ³rmula 3 - Sprint Race</title>
+    <title lang="es">Fórmula 3 - Sprint Race</title>
   </programme>
   <programme start="20260718210000 -0300" stop="20260718220000 -0300" channel="canal.28">
-    <title lang="es">FÃ³rmula 2 - Sprint Race</title>
+    <title lang="es">Fórmula 2 - Sprint Race</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260718225500 -0300" channel="canal.28">
     <title lang="es">Summer League - Las Vegas</title>
   </programme>
   <programme start="20260718225500 -0300" stop="20260719005500 -0300" channel="canal.28">
-    <title lang="es">PrÃ¡ctica - FÃ³rmula 2</title>
+    <title lang="es">Práctica - Fórmula 2</title>
   </programme>
   <channel id="canal.29">
     <display-name>29 - ESPN 4 HD</display-name>
@@ -1267,10 +1267,10 @@
     <title lang="es">Aguas arriba</title>
   </programme>
   <programme start="20260718080000 -0300" stop="20260718080500 -0300" channel="canal.29">
-    <title lang="es">La evoluciÃ³n de la indumentaria en el mundial de motociclismo</title>
+    <title lang="es">La evolución de la indumentaria en el mundial de motociclismo</title>
   </programme>
   <programme start="20260718080500 -0300" stop="20260718105500 -0300" channel="canal.29">
-    <title lang="es">FÃ³rmula 3 - Carrera Sprint</title>
+    <title lang="es">Fórmula 3 - Carrera Sprint</title>
   </programme>
   <programme start="20260718105500 -0300" stop="20260718125000 -0300" channel="canal.29">
     <title lang="es">Rugby Nations Championship</title>
@@ -1282,7 +1282,7 @@
     <title lang="es">URBA</title>
   </programme>
   <programme start="20260718160000 -0300" stop="20260718170000 -0300" channel="canal.29">
-    <title lang="es">FÃ³rmula 2 - Carrera Sprint</title>
+    <title lang="es">Fórmula 2 - Carrera Sprint</title>
   </programme>
   <programme start="20260718170000 -0300" stop="20260718180000 -0300" channel="canal.29">
     <title lang="es">Lo mejor de MotoGP</title>
@@ -1312,10 +1312,10 @@
     <title lang="es">Recta principal</title>
   </programme>
   <programme start="20260718023000 -0300" stop="20260718030000 -0300" channel="canal.30">
-    <title lang="es">La historia detrÃ¡s de la copa</title>
+    <title lang="es">La historia detrás de la copa</title>
   </programme>
   <programme start="20260718030000 -0300" stop="20260718060000 -0300" channel="canal.30">
-    <title lang="es">La historia detrÃ¡s de la copa</title>
+    <title lang="es">La historia detrás de la copa</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718070000 -0300" channel="canal.30">
     <title lang="es">Entrenadores</title>
@@ -1327,7 +1327,7 @@
     <title lang="es">DeporTV Gamer</title>
   </programme>
   <programme start="20260718083000 -0300" stop="20260718090000 -0300" channel="canal.30">
-    <title lang="es">Un gol al arcoÃ­ris</title>
+    <title lang="es">Un gol al arcoíris</title>
   </programme>
   <programme start="20260718090000 -0300" stop="20260718103000 -0300" channel="canal.30">
     <title lang="es">Sale X3</title>
@@ -1339,7 +1339,7 @@
     <title lang="es">Abriendo pista</title>
   </programme>
   <programme start="20260718130000 -0300" stop="20260718140000 -0300" channel="canal.30">
-    <title lang="es">Modo BÃ¡squet</title>
+    <title lang="es">Modo Básquet</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718143000 -0300" channel="canal.30">
     <title lang="es">Contar la vida - Mundial</title>
@@ -1357,7 +1357,7 @@
     <title lang="es">Contar la vida - Mundial</title>
   </programme>
   <programme start="20260718203000 -0300" stop="20260718213000 -0300" channel="canal.30">
-    <title lang="es">Modo BÃ¡squet</title>
+    <title lang="es">Modo Básquet</title>
   </programme>
   <programme start="20260718213000 -0300" stop="20260718233000 -0300" channel="canal.30">
     <title lang="es">Pilotos en primera</title>
@@ -1378,10 +1378,10 @@
     <title lang="es">Luz del alba</title>
   </programme>
   <programme start="20260718023000 -0300" stop="20260718060000 -0300" channel="canal.31">
-    <title lang="es">El escape del caburÃ©</title>
+    <title lang="es">El escape del caburé</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718063000 -0300" channel="canal.31">
-    <title lang="es">QuerÃ©s pescar</title>
+    <title lang="es">Querés pescar</title>
   </programme>
   <programme start="20260718063000 -0300" stop="20260718070000 -0300" channel="canal.31">
     <title lang="es">Hair Recovery</title>
@@ -1390,7 +1390,7 @@
     <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20260718100000 -0300" stop="20260718103000 -0300" channel="canal.31">
-    <title lang="es">Perros en acciÃ³n</title>
+    <title lang="es">Perros en acción</title>
   </programme>
   <programme start="20260718103000 -0300" stop="20260718120000 -0300" channel="canal.31">
     <title lang="es">Chamigo Team TV</title>
@@ -1402,7 +1402,7 @@
     <title lang="es">El apostadero</title>
   </programme>
   <programme start="20260718130000 -0300" stop="20260718133000 -0300" channel="canal.31">
-    <title lang="es">TerruÃ±os entrerrianos</title>
+    <title lang="es">Terruños entrerrianos</title>
   </programme>
   <programme start="20260718133000 -0300" stop="20260718140000 -0300" channel="canal.31">
     <title lang="es">El pato TV</title>
@@ -1411,10 +1411,10 @@
     <title lang="es">Tiempo de pesca</title>
   </programme>
   <programme start="20260718180000 -0300" stop="20260718183000 -0300" channel="canal.31">
-    <title lang="es">Sala de mÃ¡quinas</title>
+    <title lang="es">Sala de máquinas</title>
   </programme>
   <programme start="20260718183000 -0300" stop="20260718190000 -0300" channel="canal.31">
-    <title lang="es">PaÃ­s productivo</title>
+    <title lang="es">País productivo</title>
   </programme>
   <programme start="20260718190000 -0300" stop="20260718193000 -0300" channel="canal.31">
     <title lang="es">Amucan</title>
@@ -1423,7 +1423,7 @@
     <title lang="es">Full Contact</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718220000 -0300" channel="canal.31">
-    <title lang="es">TerruÃ±os entrerrianos</title>
+    <title lang="es">Terruños entrerrianos</title>
   </programme>
   <channel id="canal.40">
     <display-name>40 - PAKAPAKA</display-name>
@@ -1435,10 +1435,10 @@
     <title lang="es">Mouk</title>
   </programme>
   <programme start="20260718003000 -0300" stop="20260718004500 -0300" channel="canal.40">
-    <title lang="es">Los QuienquÃ©</title>
+    <title lang="es">Los Quienqué</title>
   </programme>
   <programme start="20260718004500 -0300" stop="20260718010000 -0300" channel="canal.40">
-    <title lang="es">Los QuienquÃ©</title>
+    <title lang="es">Los Quienqué</title>
   </programme>
   <programme start="20260718010000 -0300" stop="20260718060000 -0300" channel="canal.40">
     <title lang="es">Motorjon</title>
@@ -1447,16 +1447,16 @@
     <title lang="es">Superinsectos</title>
   </programme>
   <programme start="20260718061500 -0300" stop="20260718070000 -0300" channel="canal.40">
-    <title lang="es">MaratÃ³n Robotia</title>
+    <title lang="es">Maratón Robotia</title>
   </programme>
   <programme start="20260718070000 -0300" stop="20260718073000 -0300" channel="canal.40">
     <title lang="es">Puerto papel</title>
   </programme>
   <programme start="20260718073000 -0300" stop="20260718074500 -0300" channel="canal.40">
-    <title lang="es">Ciencia intergalÃ¡ctica</title>
+    <title lang="es">Ciencia intergaláctica</title>
   </programme>
   <programme start="20260718074500 -0300" stop="20260718120000 -0300" channel="canal.40">
-    <title lang="es">Ciencia intergalÃ¡ctica</title>
+    <title lang="es">Ciencia intergaláctica</title>
   </programme>
   <programme start="20260718120000 -0300" stop="20260718121500 -0300" channel="canal.40">
     <title lang="es">Muchas manos en el plato</title>
@@ -1474,10 +1474,10 @@
     <title lang="es">La orquestita</title>
   </programme>
   <programme start="20260718180000 -0300" stop="20260718181500 -0300" channel="canal.40">
-    <title lang="es">CapitÃ¡n Nariz de lata</title>
+    <title lang="es">Capitán Nariz de lata</title>
   </programme>
   <programme start="20260718181500 -0300" stop="20260718183000 -0300" channel="canal.40">
-    <title lang="es">Ciencia intergalÃ¡ctica</title>
+    <title lang="es">Ciencia intergaláctica</title>
   </programme>
   <programme start="20260718183000 -0300" stop="20260718190000 -0300" channel="canal.40">
     <title lang="es">Puerto papel</title>
@@ -1486,7 +1486,7 @@
     <title lang="es">Superinsectos</title>
   </programme>
   <programme start="20260718191500 -0300" stop="20260718211500 -0300" channel="canal.40">
-    <title lang="es">Ideas rompecrÃ¡neos</title>
+    <title lang="es">Ideas rompecráneos</title>
   </programme>
   <channel id="canal.41">
     <display-name>41 - CARTOON NETWORK</display-name>
@@ -1522,31 +1522,31 @@
     <title lang="es">El inicio del mundo de Craig</title>
   </programme>
   <programme start="20260718122000 -0300" stop="20260718123600 -0300" channel="canal.41">
-    <title lang="es">Un show mÃ¡s</title>
+    <title lang="es">Un show más</title>
   </programme>
   <programme start="20260718123600 -0300" stop="20260718125200 -0300" channel="canal.41">
-    <title lang="es">Un show mÃ¡s: Las cintas perdidas</title>
+    <title lang="es">Un show más: Las cintas perdidas</title>
   </programme>
   <programme start="20260718125200 -0300" stop="20260718130300 -0300" channel="canal.41">
-    <title lang="es">Un show mÃ¡s: Las cintas perdidas</title>
+    <title lang="es">Un show más: Las cintas perdidas</title>
   </programme>
   <programme start="20260718130300 -0300" stop="20260718175400 -0300" channel="canal.41">
-    <title lang="es">El maravillosamente extraÃ±o mundo de Gumball</title>
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
   </programme>
   <programme start="20260718175400 -0300" stop="20260718180600 -0300" channel="canal.41">
-    <title lang="es">El maravillosamente extraÃ±o mundo de Gumball</title>
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
   </programme>
   <programme start="20260718180600 -0300" stop="20260718182100 -0300" channel="canal.41">
-    <title lang="es">El maravillosamente extraÃ±o mundo de Gumball</title>
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
   </programme>
   <programme start="20260718182100 -0300" stop="20260718183300 -0300" channel="canal.41">
-    <title lang="es">El maravillosamente extraÃ±o mundo de Gumball</title>
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
   </programme>
   <programme start="20260718183300 -0300" stop="20260718184900 -0300" channel="canal.41">
-    <title lang="es">El increÃ­ble mundo de Gumball</title>
+    <title lang="es">El increíble mundo de Gumball</title>
   </programme>
   <programme start="20260718184900 -0300" stop="20260718235300 -0300" channel="canal.41">
-    <title lang="es">El increÃ­ble mundo de Gumball</title>
+    <title lang="es">El increíble mundo de Gumball</title>
   </programme>
   <programme start="20260718235300 -0300" stop="20260719015300 -0300" channel="canal.41">
     <title lang="es">Hora de aventura</title>
@@ -1588,13 +1588,13 @@
     <title lang="es">Star vs. Las fuerzas del mal</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718143000 -0300" channel="canal.42">
-    <title lang="es">Dave, el bÃ¡rbaro</title>
+    <title lang="es">Dave, el bárbaro</title>
   </programme>
   <programme start="20260718143000 -0300" stop="20260718145900 -0300" channel="canal.42">
-    <title lang="es">Dave, el bÃ¡rbaro</title>
+    <title lang="es">Dave, el bárbaro</title>
   </programme>
   <programme start="20260718145900 -0300" stop="20260718180000 -0300" channel="canal.42">
-    <title lang="es">Dave, el bÃ¡rbaro</title>
+    <title lang="es">Dave, el bárbaro</title>
   </programme>
   <programme start="20260718180000 -0300" stop="20260718200000 -0300" channel="canal.42">
     <title lang="es">Descendientes 2</title>
@@ -1639,10 +1639,10 @@
     <title lang="es">100% lobo: la leyenda del anillo lunar</title>
   </programme>
   <programme start="20260718065300 -0300" stop="20260718071400 -0300" channel="canal.43">
-    <title lang="es">Â¡Agente Binky al rescate!</title>
+    <title lang="es">¡Agente Binky al rescate!</title>
   </programme>
   <programme start="20260718071400 -0300" stop="20260718115700 -0300" channel="canal.43">
-    <title lang="es">Â¡Agente Binky al rescate!</title>
+    <title lang="es">¡Agente Binky al rescate!</title>
   </programme>
   <programme start="20260718115700 -0300" stop="20260718121200 -0300" channel="canal.43">
     <title lang="es">Hello Kitty: Super Style!</title>
@@ -1654,7 +1654,7 @@
     <title lang="es">44 gatos</title>
   </programme>
   <programme start="20260718124200 -0300" stop="20260718130600 -0300" channel="canal.43">
-    <title lang="es">Tres espÃ­as sin lÃ­mite</title>
+    <title lang="es">Tres espías sin límite</title>
   </programme>
   <programme start="20260718130600 -0300" stop="20260718175800 -0300" channel="canal.43">
     <title lang="es">LEGO DreamZzz</title>
@@ -1669,10 +1669,10 @@
     <title lang="es">Shasha y Milo</title>
   </programme>
   <programme start="20260718190200 -0300" stop="20260718192700 -0300" channel="canal.43">
-    <title lang="es">TrÃªs espiÃ£s demais</title>
+    <title lang="es">Três espiãs demais</title>
   </programme>
   <programme start="20260718192700 -0300" stop="20260718235400 -0300" channel="canal.43">
-    <title lang="es">TrÃªs espiÃ£s demais</title>
+    <title lang="es">Três espiãs demais</title>
   </programme>
   <programme start="20260718235400 -0300" stop="20260719015400 -0300" channel="canal.43">
     <title lang="es">Polly Pocket</title>
@@ -1723,19 +1723,19 @@
     <title lang="es">Bugs y sus amigos a la obra</title>
   </programme>
   <programme start="20260718175800 -0300" stop="20260718180500 -0300" channel="canal.44">
-    <title lang="es">La araÃ±a Lucas</title>
+    <title lang="es">La araña Lucas</title>
   </programme>
   <programme start="20260718180500 -0300" stop="20260718181300 -0300" channel="canal.44">
-    <title lang="es">La araÃ±a Lucas</title>
+    <title lang="es">La araña Lucas</title>
   </programme>
   <programme start="20260718181300 -0300" stop="20260718182000 -0300" channel="canal.44">
-    <title lang="es">La araÃ±a Lucas</title>
+    <title lang="es">La araña Lucas</title>
   </programme>
   <programme start="20260718182000 -0300" stop="20260718182700 -0300" channel="canal.44">
-    <title lang="es">La araÃ±a Lucas</title>
+    <title lang="es">La araña Lucas</title>
   </programme>
   <programme start="20260718182700 -0300" stop="20260718235100 -0300" channel="canal.44">
-    <title lang="es">La araÃ±a Lucas</title>
+    <title lang="es">La araña Lucas</title>
   </programme>
   <programme start="20260718235100 -0300" stop="20260719015100 -0300" channel="canal.44">
     <title lang="es">Bugs y sus amigos a la obra</title>
@@ -1750,10 +1750,10 @@
     <title lang="es">Spidey y sus sorprendentes amigos</title>
   </programme>
   <programme start="20260718005300 -0300" stop="20260718011700 -0300" channel="canal.45">
-    <title lang="es">La maravillosa pastelerÃ­a de Alicia</title>
+    <title lang="es">La maravillosa pastelería de Alicia</title>
   </programme>
   <programme start="20260718011700 -0300" stop="20260718054400 -0300" channel="canal.45">
-    <title lang="es">Kiya y los hÃ©roes de Kimoja</title>
+    <title lang="es">Kiya y los héroes de Kimoja</title>
   </programme>
   <programme start="20260718054400 -0300" stop="20260718060800 -0300" channel="canal.45">
     <title lang="es">Fancy Nancy Clancy</title>
@@ -1771,13 +1771,13 @@
     <title lang="es">La casa de Mickey Mouse+</title>
   </programme>
   <programme start="20260718120000 -0300" stop="20260718123000 -0300" channel="canal.45">
-    <title lang="es">La maravillosa pastelerÃ­a de Alicia</title>
+    <title lang="es">La maravillosa pastelería de Alicia</title>
   </programme>
   <programme start="20260718123000 -0300" stop="20260718123800 -0300" channel="canal.45">
-    <title lang="es">Morphle y las mascotas mÃ¡gicas</title>
+    <title lang="es">Morphle y las mascotas mágicas</title>
   </programme>
   <programme start="20260718123800 -0300" stop="20260718124900 -0300" channel="canal.45">
-    <title lang="es">Morphle y las mascotas mÃ¡gicas</title>
+    <title lang="es">Morphle y las mascotas mágicas</title>
   </programme>
   <programme start="20260718124900 -0300" stop="20260718130200 -0300" channel="canal.45">
     <title lang="es">Doctora Juguetes</title>
@@ -1879,7 +1879,7 @@
     <title lang="es">Dora</title>
   </programme>
   <programme start="20260718012500 -0300" stop="20260718055500 -0300" channel="canal.47">
-    <title lang="es">BarbapapÃ¡: una gran familia feliz</title>
+    <title lang="es">Barbapapá: una gran familia feliz</title>
   </programme>
   <programme start="20260718055500 -0300" stop="20260718062000 -0300" channel="canal.47">
     <title lang="es">Rubble y equipo</title>
@@ -1903,13 +1903,13 @@
     <title lang="es">Tim Rex en el espacio</title>
   </programme>
   <programme start="20260718123000 -0300" stop="20260718125500 -0300" channel="canal.47">
-    <title lang="es">El pequeÃ±o reino de Ben y Holly</title>
+    <title lang="es">El pequeño reino de Ben y Holly</title>
   </programme>
   <programme start="20260718125500 -0300" stop="20260718131500 -0300" channel="canal.47">
-    <title lang="es">BarbapapÃ¡: una gran familia feliz</title>
+    <title lang="es">Barbapapá: una gran familia feliz</title>
   </programme>
   <programme start="20260718131500 -0300" stop="20260718174000 -0300" channel="canal.47">
-    <title lang="es">BarbapapÃ¡: una gran familia feliz</title>
+    <title lang="es">Barbapapá: una gran familia feliz</title>
   </programme>
   <programme start="20260718174000 -0300" stop="20260718180500 -0300" channel="canal.47">
     <title lang="es">Misterios animales</title>
@@ -1924,7 +1924,7 @@
     <title lang="es">Dora</title>
   </programme>
   <programme start="20260718190000 -0300" stop="20260718235500 -0300" channel="canal.47">
-    <title lang="es">El pequeÃ±o reino de Ben y Holly</title>
+    <title lang="es">El pequeño reino de Ben y Holly</title>
   </programme>
   <programme start="20260718235500 -0300" stop="20260719015500 -0300" channel="canal.47">
     <title lang="es">Rubble y equipo</title>
@@ -1933,46 +1933,46 @@
     <display-name>48 - BITME HD</display-name>
   </channel>
   <programme start="20260718001500 -0300" stop="20260718004000 -0300" channel="canal.48">
-    <title lang="es">MaratÃ³n World Trigger</title>
+    <title lang="es">Maratón World Trigger</title>
   </programme>
   <programme start="20260718004000 -0300" stop="20260718013000 -0300" channel="canal.48">
-    <title lang="es">MaratÃ³n World Trigger</title>
+    <title lang="es">Maratón World Trigger</title>
   </programme>
   <programme start="20260718013000 -0300" stop="20260718022000 -0300" channel="canal.48">
     <title lang="es">Mazinger Z</title>
   </programme>
   <programme start="20260718022000 -0300" stop="20260718030000 -0300" channel="canal.48">
-    <title lang="es">MaratÃ³n Los caballeros del ZodÃ­aco</title>
+    <title lang="es">Maratón Los caballeros del Zodíaco</title>
   </programme>
   <programme start="20260718030000 -0300" stop="20260718051500 -0300" channel="canal.48">
-    <title lang="es">MaratÃ³n One Piece</title>
+    <title lang="es">Maratón One Piece</title>
   </programme>
   <programme start="20260718051500 -0300" stop="20260718072000 -0300" channel="canal.48">
-    <title lang="es">MaratÃ³n Dragon Ball GT</title>
+    <title lang="es">Maratón Dragon Ball GT</title>
   </programme>
   <programme start="20260718072000 -0300" stop="20260718092000 -0300" channel="canal.48">
-    <title lang="es">MaratÃ³n Los caballeros del ZodÃ­aco</title>
+    <title lang="es">Maratón Los caballeros del Zodíaco</title>
   </programme>
   <programme start="20260718092000 -0300" stop="20260718112500 -0300" channel="canal.48">
-    <title lang="es">MaratÃ³n World Trigger</title>
+    <title lang="es">Maratón World Trigger</title>
   </programme>
   <programme start="20260718112500 -0300" stop="20260718134000 -0300" channel="canal.48">
-    <title lang="es">MaratÃ³n One Piece</title>
+    <title lang="es">Maratón One Piece</title>
   </programme>
   <programme start="20260718134000 -0300" stop="20260718154000 -0300" channel="canal.48">
-    <title lang="es">MaratÃ³n Dragon Ball GT</title>
+    <title lang="es">Maratón Dragon Ball GT</title>
   </programme>
   <programme start="20260718154000 -0300" stop="20260718174500 -0300" channel="canal.48">
-    <title lang="es">MaratÃ³n Sailor Moon S</title>
+    <title lang="es">Maratón Sailor Moon S</title>
   </programme>
   <programme start="20260718174500 -0300" stop="20260718200000 -0300" channel="canal.48">
-    <title lang="es">MaratÃ³n Mazinger Z</title>
+    <title lang="es">Maratón Mazinger Z</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718221000 -0300" channel="canal.48">
-    <title lang="es">MaratÃ³n One Piece</title>
+    <title lang="es">Maratón One Piece</title>
   </programme>
   <programme start="20260718221000 -0300" stop="20260718235000 -0300" channel="canal.48">
-    <title lang="es">MaratÃ³n Dragon Ball GT</title>
+    <title lang="es">Maratón Dragon Ball GT</title>
   </programme>
   <programme start="20260718235000 -0300" stop="20260719015000 -0300" channel="canal.48">
     <title lang="es">Dragon Ball GT</title>
@@ -2002,16 +2002,16 @@
     <title lang="es">El zoom</title>
   </programme>
   <programme start="20260718070000 -0300" stop="20260718073000 -0300" channel="canal.58">
-    <title lang="es">Virus: bÃºsqueda y captura</title>
+    <title lang="es">Virus: búsqueda y captura</title>
   </programme>
   <programme start="20260718073000 -0300" stop="20260718080000 -0300" channel="canal.58">
     <title lang="es">RT reporta</title>
   </programme>
   <programme start="20260718080000 -0300" stop="20260718120000 -0300" channel="canal.58">
-    <title lang="es">AhÃ­ les va</title>
+    <title lang="es">Ahí les va</title>
   </programme>
   <programme start="20260718120000 -0300" stop="20260718123000 -0300" channel="canal.58">
-    <title lang="es">AhÃ­ les va</title>
+    <title lang="es">Ahí les va</title>
   </programme>
   <programme start="20260718123000 -0300" stop="20260718130000 -0300" channel="canal.58">
     <title lang="es">RT reporta</title>
@@ -2023,10 +2023,10 @@
     <title lang="es">Entrevista mix</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718180000 -0300" channel="canal.58">
-    <title lang="es">AhÃ­ les va</title>
+    <title lang="es">Ahí les va</title>
   </programme>
   <programme start="20260718180000 -0300" stop="20260718183000 -0300" channel="canal.58">
-    <title lang="es">AhÃ­ les va</title>
+    <title lang="es">Ahí les va</title>
   </programme>
   <programme start="20260718183000 -0300" stop="20260718190000 -0300" channel="canal.58">
     <title lang="es">RT reporta</title>
@@ -2038,13 +2038,13 @@
     <title lang="es">Entrevista mix</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718220000 -0300" channel="canal.58">
-    <title lang="es">AhÃ­ les va</title>
+    <title lang="es">Ahí les va</title>
   </programme>
   <channel id="canal.60">
     <display-name>60 - CNN</display-name>
   </channel>
   <programme start="20260718000000 -0300" stop="20260718010000 -0300" channel="canal.60">
-    <title lang="es">Perspectivas de MÃ©xico</title>
+    <title lang="es">Perspectivas de México</title>
   </programme>
   <programme start="20260718010000 -0300" stop="20260718020000 -0300" channel="canal.60">
     <title lang="es">Directo USA</title>
@@ -2059,7 +2059,7 @@
     <title lang="es">Deportes CNN</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718070000 -0300" channel="canal.60">
-    <title lang="es">Perspectivas de MÃ©xico</title>
+    <title lang="es">Perspectivas de México</title>
   </programme>
   <programme start="20260718070000 -0300" stop="20260718080000 -0300" channel="canal.60">
     <title lang="es">Panorama mundial</title>
@@ -2071,16 +2071,16 @@
     <title lang="es">El mundo maravilloso de Quest</title>
   </programme>
   <programme start="20260718093000 -0300" stop="20260718120000 -0300" channel="canal.60">
-    <title lang="es">Globo economÃ­a</title>
+    <title lang="es">Globo economía</title>
   </programme>
   <programme start="20260718120000 -0300" stop="20260718130000 -0300" channel="canal.60">
-    <title lang="es">Perspectivas de MÃ©xico</title>
+    <title lang="es">Perspectivas de México</title>
   </programme>
   <programme start="20260718130000 -0300" stop="20260718140000 -0300" channel="canal.60">
     <title lang="es">Directo USA</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718143000 -0300" channel="canal.60">
-    <title lang="es">Globo economÃ­a</title>
+    <title lang="es">Globo economía</title>
   </programme>
   <programme start="20260718143000 -0300" stop="20260718150000 -0300" channel="canal.60">
     <title lang="es">El mundo maravilloso de Quest</title>
@@ -2089,7 +2089,7 @@
     <title lang="es">La historia completa con Anderson Cooper</title>
   </programme>
   <programme start="20260718180000 -0300" stop="20260718183000 -0300" channel="canal.60">
-    <title lang="es">Globo economÃ­a</title>
+    <title lang="es">Globo economía</title>
   </programme>
   <programme start="20260718183000 -0300" stop="20260718190000 -0300" channel="canal.60">
     <title lang="es">Vive la salud</title>
@@ -2098,7 +2098,7 @@
     <title lang="es">Mirador mundial</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718203000 -0300" channel="canal.60">
-    <title lang="es">Globo economÃ­a</title>
+    <title lang="es">Globo economía</title>
   </programme>
   <programme start="20260718203000 -0300" stop="20260718223000 -0300" channel="canal.60">
     <title lang="es">Showbiz</title>
@@ -2128,13 +2128,13 @@
     <title lang="es">Tenderete</title>
   </programme>
   <programme start="20260718115000 -0300" stop="20260718124500 -0300" channel="canal.61">
-    <title lang="es">De tapas por EspaÃ±a</title>
+    <title lang="es">De tapas por España</title>
   </programme>
   <programme start="20260718124500 -0300" stop="20260718131500 -0300" channel="canal.61">
     <title lang="es">Audiencia abierta</title>
   </programme>
   <programme start="20260718131500 -0300" stop="20260718151000 -0300" channel="canal.61">
-    <title lang="es">D corazÃ³n</title>
+    <title lang="es">D corazón</title>
   </programme>
   <programme start="20260718151000 -0300" stop="20260718155500 -0300" channel="canal.61">
     <title lang="es">Saber y ganar - Fin de semana</title>
@@ -2158,7 +2158,7 @@
     <title lang="es">La suerte en tus manos</title>
   </programme>
   <programme start="20260718234200 -0300" stop="20260719014200 -0300" channel="canal.61">
-    <title lang="es">Me meto en un jardÃ­n</title>
+    <title lang="es">Me meto en un jardín</title>
   </programme>
   <channel id="canal.62">
     <display-name>62 - RAI</display-name>
@@ -2227,7 +2227,7 @@
     <display-name>63 - CINE.AR</display-name>
   </channel>
   <programme start="20260718000000 -0300" stop="20260718020000 -0300" channel="canal.63">
-    <title lang="es">CadÃ¡ver exquisito</title>
+    <title lang="es">Cadáver exquisito</title>
   </programme>
   <programme start="20260718020000 -0300" stop="20260718040000 -0300" channel="canal.63">
     <title lang="es">Panash</title>
@@ -2236,19 +2236,19 @@
     <title lang="es">Marilyn</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718080000 -0300" channel="canal.63">
-    <title lang="es">Buen dÃ­a, dÃ­a</title>
+    <title lang="es">Buen día, día</title>
   </programme>
   <programme start="20260718080000 -0300" stop="20260718100000 -0300" channel="canal.63">
-    <title lang="es">La afinadora de Ã¡rboles</title>
+    <title lang="es">La afinadora de árboles</title>
   </programme>
   <programme start="20260718100000 -0300" stop="20260718120000 -0300" channel="canal.63">
-    <title lang="es">DÃ­as de odio</title>
+    <title lang="es">Días de odio</title>
   </programme>
   <programme start="20260718120000 -0300" stop="20260718140000 -0300" channel="canal.63">
-    <title lang="es">Buen dÃ­a, dÃ­a</title>
+    <title lang="es">Buen día, día</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718160000 -0300" channel="canal.63">
-    <title lang="es">La afinadora de Ã¡rboles</title>
+    <title lang="es">La afinadora de árboles</title>
   </programme>
   <programme start="20260718160000 -0300" stop="20260718180000 -0300" channel="canal.63">
     <title lang="es">Los inundados</title>
@@ -2257,7 +2257,7 @@
     <title lang="es">Entre reinas</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718220000 -0300" channel="canal.63">
-    <title lang="es">El secreto de MarÃ³</title>
+    <title lang="es">El secreto de Maró</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260719000000 -0300" channel="canal.63">
     <title lang="es">Panash</title>
@@ -2266,7 +2266,7 @@
     <display-name>64 - STAR CHANNEL HD</display-name>
   </channel>
   <programme start="20260718000400 -0300" stop="20260718002900 -0300" channel="canal.64">
-    <title lang="es">El menÃº</title>
+    <title lang="es">El menú</title>
   </programme>
   <programme start="20260718002900 -0300" stop="20260718021900 -0300" channel="canal.64">
     <title lang="es">Crimen a contrarreloj</title>
@@ -2275,7 +2275,7 @@
     <title lang="es">The Kid</title>
   </programme>
   <programme start="20260718023400 -0300" stop="20260718035400 -0300" channel="canal.64">
-    <title lang="es">Alguien, en algÃºn lugar</title>
+    <title lang="es">Alguien, en algún lugar</title>
   </programme>
   <programme start="20260718035400 -0300" stop="20260718043700 -0300" channel="canal.64">
     <title lang="es">Castle</title>
@@ -2290,7 +2290,7 @@
     <title lang="es">Castle</title>
   </programme>
   <programme start="20260718075100 -0300" stop="20260718100000 -0300" channel="canal.64">
-    <title lang="es">MisiÃ³n Babilonia</title>
+    <title lang="es">Misión Babilonia</title>
   </programme>
   <programme start="20260718100000 -0300" stop="20260718111300 -0300" channel="canal.64">
     <title lang="es">3 minutos con Santiago</title>
@@ -2326,7 +2326,7 @@
     <title lang="es">Vacaciones</title>
   </programme>
   <programme start="20260718005000 -0300" stop="20260718021500 -0300" channel="canal.65">
-    <title lang="es">PequeÃ±os secretos</title>
+    <title lang="es">Pequeños secretos</title>
   </programme>
   <programme start="20260718021500 -0300" stop="20260718023500 -0300" channel="canal.65">
     <title lang="es">The Big Bang Theory</title>
@@ -2353,16 +2353,16 @@
     <title lang="es">Transformers</title>
   </programme>
   <programme start="20260718131400 -0300" stop="20260718160100 -0300" channel="canal.65">
-    <title lang="es">Transformers: La venganza de los caÃ­dos</title>
+    <title lang="es">Transformers: La venganza de los caídos</title>
   </programme>
   <programme start="20260718160100 -0300" stop="20260718185300 -0300" channel="canal.65">
     <title lang="es">Transformers: El lado oscuro de la Luna</title>
   </programme>
   <programme start="20260718185300 -0300" stop="20260718220000 -0300" channel="canal.65">
-    <title lang="es">Transformers: La era de la extinciÃ³n</title>
+    <title lang="es">Transformers: La era de la extinción</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260719000000 -0300" channel="canal.65">
-    <title lang="es">Transformers: El Ãºltimo caballero</title>
+    <title lang="es">Transformers: El último caballero</title>
   </programme>
   <channel id="canal.66">
     <display-name>66 - AXN HD</display-name>
@@ -2599,7 +2599,7 @@
     <title lang="es">Contracara</title>
   </programme>
   <programme start="20260718235900 -0300" stop="20260719015900 -0300" channel="canal.69">
-    <title lang="es">Battle Angel: La Ãºltima guerrera</title>
+    <title lang="es">Battle Angel: La última guerrera</title>
   </programme>
   <channel id="canal.70">
     <display-name>70 - TNT</display-name>
@@ -2626,16 +2626,16 @@
     <title lang="es">TNT Buzz</title>
   </programme>
   <programme start="20260718060700 -0300" stop="20260718074700 -0300" channel="canal.70">
-    <title lang="es">CÃ³mo salir de BÃºfalo</title>
+    <title lang="es">Cómo salir de Búfalo</title>
   </programme>
   <programme start="20260718074700 -0300" stop="20260718115300 -0300" channel="canal.70">
-    <title lang="es">El Ãºltimo gran hÃ©roe</title>
+    <title lang="es">El último gran héroe</title>
   </programme>
   <programme start="20260718115300 -0300" stop="20260718142800 -0300" channel="canal.70">
-    <title lang="es">AtrÃ¡pame si puedes</title>
+    <title lang="es">Atrápame si puedes</title>
   </programme>
   <programme start="20260718142800 -0300" stop="20260718161900 -0300" channel="canal.70">
-    <title lang="es">Dicen por ahÃ­...</title>
+    <title lang="es">Dicen por ahí...</title>
   </programme>
   <programme start="20260718161900 -0300" stop="20260718180900 -0300" channel="canal.70">
     <title lang="es">Si yo tuviera 30</title>
@@ -2644,13 +2644,13 @@
     <title lang="es">Golpe bajo: el juego final</title>
   </programme>
   <programme start="20260718201100 -0300" stop="20260718220000 -0300" channel="canal.70">
-    <title lang="es">Son como niÃ±os</title>
+    <title lang="es">Son como niños</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260718234500 -0300" channel="canal.70">
-    <title lang="es">Son como niÃ±os 2</title>
+    <title lang="es">Son como niños 2</title>
   </programme>
   <programme start="20260718234500 -0300" stop="20260718235300 -0300" channel="canal.70">
-    <title lang="es">Igualita a mÃ­</title>
+    <title lang="es">Igualita a mí</title>
   </programme>
   <programme start="20260718235300 -0300" stop="20260719015300 -0300" channel="canal.70">
     <title lang="es">Capital humano</title>
@@ -2740,7 +2740,7 @@
     <title lang="es">Un juego vs. El destino</title>
   </programme>
   <programme start="20260718152000 -0300" stop="20260718175000 -0300" channel="canal.72">
-    <title lang="es">Los siete magnÃ­ficos</title>
+    <title lang="es">Los siete magníficos</title>
   </programme>
   <programme start="20260718175000 -0300" stop="20260718195500 -0300" channel="canal.72">
     <title lang="es">Tomb Raider</title>
@@ -2773,7 +2773,7 @@
     <title lang="es">Henry &amp; Klauss: maestros de la magia</title>
   </programme>
   <programme start="20260718083700 -0300" stop="20260718105900 -0300" channel="canal.73">
-    <title lang="es">La increÃ­ble vida de Walter Mitty</title>
+    <title lang="es">La increíble vida de Walter Mitty</title>
   </programme>
   <programme start="20260718105900 -0300" stop="20260718130000 -0300" channel="canal.73">
     <title lang="es">Jarhead: Law of Return</title>
@@ -2800,7 +2800,7 @@
     <title lang="es">Ready Player One: comienza el juego</title>
   </programme>
   <programme start="20260718035400 -0300" stop="20260718054300 -0300" channel="canal.74">
-    <title lang="es">Al filo del maÃ±ana</title>
+    <title lang="es">Al filo del mañana</title>
   </programme>
   <programme start="20260718054300 -0300" stop="20260718060000 -0300" channel="canal.74">
     <title lang="es">Hollywood One on One</title>
@@ -2833,7 +2833,7 @@
     <title lang="es">Los duros</title>
   </programme>
   <programme start="20260718201400 -0300" stop="20260718220000 -0300" channel="canal.74">
-    <title lang="es">OperaciÃ³n peligrosa</title>
+    <title lang="es">Operación peligrosa</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260718234500 -0300" channel="canal.74">
     <title lang="es">Sin escape</title>
@@ -2848,10 +2848,10 @@
     <display-name>75 - TNT NOVELAS</display-name>
   </channel>
   <programme start="20260718003000 -0300" stop="20260718011500 -0300" channel="canal.75">
-    <title lang="es">Sin tetas no hay paraÃ­so</title>
+    <title lang="es">Sin tetas no hay paraíso</title>
   </programme>
   <programme start="20260718011500 -0300" stop="20260718020000 -0300" channel="canal.75">
-    <title lang="es">Sin tetas no hay paraÃ­so</title>
+    <title lang="es">Sin tetas no hay paraíso</title>
   </programme>
   <programme start="20260718020000 -0300" stop="20260718024600 -0300" channel="canal.75">
     <title lang="es">Fuerza de mujer</title>
@@ -2863,10 +2863,10 @@
     <title lang="es">El chico de oro</title>
   </programme>
   <programme start="20260718064900 -0300" stop="20260718081400 -0300" channel="canal.75">
-    <title lang="es">QuiÃ©reme siempre</title>
+    <title lang="es">Quiéreme siempre</title>
   </programme>
   <programme start="20260718081400 -0300" stop="20260718090000 -0300" channel="canal.75">
-    <title lang="es">QuiÃ©reme siempre</title>
+    <title lang="es">Quiéreme siempre</title>
   </programme>
   <programme start="20260718090000 -0300" stop="20260718094400 -0300" channel="canal.75">
     <title lang="es">El chico de oro</title>
@@ -2878,10 +2878,10 @@
     <title lang="es">El chico de oro</title>
   </programme>
   <programme start="20260718121200 -0300" stop="20260718130700 -0300" channel="canal.75">
-    <title lang="es">QuiÃ©reme siempre</title>
+    <title lang="es">Quiéreme siempre</title>
   </programme>
   <programme start="20260718130700 -0300" stop="20260718140000 -0300" channel="canal.75">
-    <title lang="es">QuiÃ©reme siempre</title>
+    <title lang="es">Quiéreme siempre</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718145100 -0300" channel="canal.75">
     <title lang="es">Fuerza de mujer</title>
@@ -2893,16 +2893,16 @@
     <title lang="es">Fuerza de mujer</title>
   </programme>
   <programme start="20260718182400 -0300" stop="20260718191100 -0300" channel="canal.75">
-    <title lang="es">QuiÃ©reme siempre</title>
+    <title lang="es">Quiéreme siempre</title>
   </programme>
   <programme start="20260718191100 -0300" stop="20260718200600 -0300" channel="canal.75">
-    <title lang="es">QuiÃ©reme siempre</title>
+    <title lang="es">Quiéreme siempre</title>
   </programme>
   <programme start="20260718200600 -0300" stop="20260718205200 -0300" channel="canal.75">
-    <title lang="es">QuiÃ©reme siempre</title>
+    <title lang="es">Quiéreme siempre</title>
   </programme>
   <programme start="20260718205200 -0300" stop="20260718234200 -0300" channel="canal.75">
-    <title lang="es">QuiÃ©reme siempre</title>
+    <title lang="es">Quiéreme siempre</title>
   </programme>
   <programme start="20260718234200 -0300" stop="20260719014200 -0300" channel="canal.75">
     <title lang="es">El chico de oro</title>
@@ -2911,13 +2911,13 @@
     <display-name>76 - STUDIO UNIVERSAL</display-name>
   </channel>
   <programme start="20260718012500 -0300" stop="20260718030500 -0300" channel="canal.76">
-    <title lang="es">Vacaciones navideÃ±as</title>
+    <title lang="es">Vacaciones navideñas</title>
   </programme>
   <programme start="20260718030500 -0300" stop="20260718044000 -0300" channel="canal.76">
     <title lang="es">Navidad en Evergreen: buenas noticias</title>
   </programme>
   <programme start="20260718044000 -0300" stop="20260718062000 -0300" channel="canal.76">
-    <title lang="es">Una receta navideÃ±a</title>
+    <title lang="es">Una receta navideña</title>
   </programme>
   <programme start="20260718062000 -0300" stop="20260718080000 -0300" channel="canal.76">
     <title lang="es">Intercambio de hermanas: Navidad en la ciudad</title>
@@ -2929,7 +2929,7 @@
     <title lang="es">Sugarplum: la experta en Navidad</title>
   </programme>
   <programme start="20260718112500 -0300" stop="20260718131000 -0300" channel="canal.76">
-    <title lang="es">Una jugada navideÃ±a</title>
+    <title lang="es">Una jugada navideña</title>
   </programme>
   <programme start="20260718131000 -0300" stop="20260718150000 -0300" channel="canal.76">
     <title lang="es">El duende</title>
@@ -2938,7 +2938,7 @@
     <title lang="es">No hay nada como las fiestas</title>
   </programme>
   <programme start="20260718165500 -0300" stop="20260718184000 -0300" channel="canal.76">
-    <title lang="es">Amor bajo el muÃ©rdago</title>
+    <title lang="es">Amor bajo el muérdago</title>
   </programme>
   <programme start="20260718184000 -0300" stop="20260718201500 -0300" channel="canal.76">
     <title lang="es">Navidad en el Plaza</title>
@@ -2971,7 +2971,7 @@
     <title lang="es">Secuestro de cuna</title>
   </programme>
   <programme start="20260718080000 -0300" stop="20260718090000 -0300" channel="canal.78">
-    <title lang="es">Amores que engaÃ±an</title>
+    <title lang="es">Amores que engañan</title>
   </programme>
   <programme start="20260718090000 -0300" stop="20260718100000 -0300" channel="canal.78">
     <title lang="es">Infomerciales</title>
@@ -2986,7 +2986,7 @@
     <title lang="es">Donde nadie escucha</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718153000 -0300" channel="canal.78">
-    <title lang="es">Presunta muerte en el paraÃ­so</title>
+    <title lang="es">Presunta muerte en el paraíso</title>
   </programme>
   <programme start="20260718153000 -0300" stop="20260718170000 -0300" channel="canal.78">
     <title lang="es">Secuestro de cuna</title>
@@ -2998,7 +2998,7 @@
     <title lang="es">Rehen en el camino</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718213000 -0300" channel="canal.78">
-    <title lang="es">Â¿DÃ³nde estÃ¡ mi hija?</title>
+    <title lang="es">¿Dónde está mi hija?</title>
   </programme>
   <programme start="20260718213000 -0300" stop="20260718230000 -0300" channel="canal.78">
     <title lang="es">Monstruo en la familia: la historia de Stacy Kananen</title>
@@ -3037,7 +3037,7 @@
     <title lang="es">Chicago Med</title>
   </programme>
   <programme start="20260718115000 -0300" stop="20260718124000 -0300" channel="canal.79">
-    <title lang="es">MaratÃ³n La ley y el orden: UVE</title>
+    <title lang="es">Maratón La ley y el orden: UVE</title>
   </programme>
   <programme start="20260718124000 -0300" stop="20260718133000 -0300" channel="canal.79">
     <title lang="es">The Irrational</title>
@@ -3052,19 +3052,19 @@
     <title lang="es">Chicago PD</title>
   </programme>
   <programme start="20260718174000 -0300" stop="20260718183000 -0300" channel="canal.79">
-    <title lang="es">MaratÃ³n Chicago P.D.</title>
+    <title lang="es">Maratón Chicago P.D.</title>
   </programme>
   <programme start="20260718183000 -0300" stop="20260718192000 -0300" channel="canal.79">
-    <title lang="es">MaratÃ³n Chicago P.D.</title>
+    <title lang="es">Maratón Chicago P.D.</title>
   </programme>
   <programme start="20260718192000 -0300" stop="20260718201000 -0300" channel="canal.79">
-    <title lang="es">MaratÃ³n Chicago P.D.</title>
+    <title lang="es">Maratón Chicago P.D.</title>
   </programme>
   <programme start="20260718201000 -0300" stop="20260718210000 -0300" channel="canal.79">
-    <title lang="es">MaratÃ³n Chicago P.D.</title>
+    <title lang="es">Maratón Chicago P.D.</title>
   </programme>
   <programme start="20260718210000 -0300" stop="20260718233000 -0300" channel="canal.79">
-    <title lang="es">MaratÃ³n Chicago P.D.</title>
+    <title lang="es">Maratón Chicago P.D.</title>
   </programme>
   <programme start="20260718233000 -0300" stop="20260719013000 -0300" channel="canal.79">
     <title lang="es">Chicago P.D.</title>
@@ -3112,7 +3112,7 @@
     <title lang="es">Derecho de familia</title>
   </programme>
   <programme start="20260718191700 -0300" stop="20260718211200 -0300" channel="canal.80">
-    <title lang="es">Una Venus en visÃ³n</title>
+    <title lang="es">Una Venus en visón</title>
   </programme>
   <programme start="20260718211200 -0300" stop="20260718230000 -0300" channel="canal.80">
     <title lang="es">El abrazo partido</title>
@@ -3223,7 +3223,7 @@
     <title lang="es">Cosas del amor</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718210000 -0300" channel="canal.82">
-    <title lang="es">CharitÃ©</title>
+    <title lang="es">Charité</title>
   </programme>
   <programme start="20260718210000 -0300" stop="20260718220000 -0300" channel="canal.82">
     <title lang="es">Citas Barcelona</title>
@@ -3241,7 +3241,7 @@
     <title lang="es">Tan lejos, tan cerca</title>
   </programme>
   <programme start="20260718025500 -0300" stop="20260718040000 -0300" channel="canal.83">
-    <title lang="es">Aida Garifullina interpreta arias romÃ¡nticas</title>
+    <title lang="es">Aida Garifullina interpreta arias románticas</title>
   </programme>
   <programme start="20260718040000 -0300" stop="20260718045000 -0300" channel="canal.83">
     <title lang="es">Philharmonia</title>
@@ -3286,7 +3286,7 @@
     <title lang="es">Foyle</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260718235500 -0300" channel="canal.83">
-    <title lang="es">La doble vida de VerÃ³nica</title>
+    <title lang="es">La doble vida de Verónica</title>
   </programme>
   <programme start="20260718235500 -0300" stop="20260719015500 -0300" channel="canal.83">
     <title lang="es">Open at Night</title>
@@ -3298,7 +3298,7 @@
     <title lang="es">Mi gran boda gitana</title>
   </programme>
   <programme start="20260718004900 -0300" stop="20260718013600 -0300" channel="canal.84">
-    <title lang="es">RenovaciÃ³n al desnudo</title>
+    <title lang="es">Renovación al desnudo</title>
   </programme>
   <programme start="20260718013600 -0300" stop="20260718021000 -0300" channel="canal.84">
     <title lang="es">El hotel de Trixie</title>
@@ -3337,22 +3337,22 @@
     <title lang="es">Amor extranjero</title>
   </programme>
   <programme start="20260718175400 -0300" stop="20260718184100 -0300" channel="canal.84">
-    <title lang="es">CÃ¡sate conmigo</title>
+    <title lang="es">Cásate conmigo</title>
   </programme>
   <programme start="20260718184100 -0300" stop="20260718192600 -0300" channel="canal.84">
-    <title lang="es">CÃ¡sate conmigo</title>
+    <title lang="es">Cásate conmigo</title>
   </programme>
   <programme start="20260718192600 -0300" stop="20260718201300 -0300" channel="canal.84">
-    <title lang="es">CÃ¡sate conmigo</title>
+    <title lang="es">Cásate conmigo</title>
   </programme>
   <programme start="20260718201300 -0300" stop="20260718214500 -0300" channel="canal.84">
-    <title lang="es">Todo en 90 dÃ­as: Â¿Felices por siempre?</title>
+    <title lang="es">Todo en 90 días: ¿Felices por siempre?</title>
   </programme>
   <programme start="20260718214500 -0300" stop="20260718231700 -0300" channel="canal.84">
-    <title lang="es">Todo en 90 dÃ­as: Â¿Felices por siempre?</title>
+    <title lang="es">Todo en 90 días: ¿Felices por siempre?</title>
   </programme>
   <programme start="20260718231700 -0300" stop="20260719011700 -0300" channel="canal.84">
-    <title lang="es">La mansiÃ³n de las cougars</title>
+    <title lang="es">La mansión de las cougars</title>
   </programme>
   <channel id="canal.86">
     <display-name>86 - AMC SERIES</display-name>
@@ -3376,28 +3376,28 @@
     <title lang="es">The Walking Dead</title>
   </programme>
   <programme start="20260718074000 -0300" stop="20260718080500 -0300" channel="canal.86">
-    <title lang="es">CrÃ­menes reales: Indefendible</title>
+    <title lang="es">Crímenes reales: Indefendible</title>
   </programme>
   <programme start="20260718080500 -0300" stop="20260718083000 -0300" channel="canal.86">
-    <title lang="es">CrÃ­menes reales: Indefendible</title>
+    <title lang="es">Crímenes reales: Indefendible</title>
   </programme>
   <programme start="20260718083000 -0300" stop="20260718113000 -0300" channel="canal.86">
     <title lang="es">Brockmire</title>
   </programme>
   <programme start="20260718113000 -0300" stop="20260718122000 -0300" channel="canal.86">
-    <title lang="es">CrÃ­menes reales: Â¿SucediÃ³ aquÃ­?</title>
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
   </programme>
   <programme start="20260718122000 -0300" stop="20260718131000 -0300" channel="canal.86">
-    <title lang="es">CrÃ­menes reales: Â¿SucediÃ³ aquÃ­?</title>
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
   </programme>
   <programme start="20260718131000 -0300" stop="20260718140000 -0300" channel="canal.86">
-    <title lang="es">CrÃ­menes reales: Â¿SucediÃ³ aquÃ­?</title>
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718145000 -0300" channel="canal.86">
-    <title lang="es">CrÃ­menes reales: Â¿SucediÃ³ aquÃ­?</title>
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
   </programme>
   <programme start="20260718145000 -0300" stop="20260718172500 -0300" channel="canal.86">
-    <title lang="es">CrÃ­menes reales: Â¿SucediÃ³ aquÃ­?</title>
+    <title lang="es">Crímenes reales: ¿Sucedió aquí?</title>
   </programme>
   <programme start="20260718172500 -0300" stop="20260718181500 -0300" channel="canal.86">
     <title lang="es">Turn: Washingtons Spies</title>
@@ -3421,7 +3421,7 @@
     <display-name>87 - EL GOURMET</display-name>
   </channel>
   <programme start="20260718000000 -0300" stop="20260718003000 -0300" channel="canal.87">
-    <title lang="es">Pueblos para comÃ©rselos. MÃ©xico</title>
+    <title lang="es">Pueblos para comérselos. México</title>
   </programme>
   <programme start="20260718003000 -0300" stop="20260718010000 -0300" channel="canal.87">
     <title lang="es">Los favoritos de Margarita Carrillo</title>
@@ -3460,16 +3460,16 @@
     <title lang="es">Con solo una olla</title>
   </programme>
   <programme start="20260718133000 -0300" stop="20260718140000 -0300" channel="canal.87">
-    <title lang="es">Pueblos para comÃ©rselos. MÃ©xico</title>
+    <title lang="es">Pueblos para comérselos. México</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718180000 -0300" channel="canal.87">
-    <title lang="es">Hermana VerÃ³nica</title>
+    <title lang="es">Hermana Verónica</title>
   </programme>
   <programme start="20260718180000 -0300" stop="20260718183000 -0300" channel="canal.87">
-    <title lang="es">Los imperdibles de Ciudad de MÃ©xico</title>
+    <title lang="es">Los imperdibles de Ciudad de México</title>
   </programme>
   <programme start="20260718183000 -0300" stop="20260718190000 -0300" channel="canal.87">
-    <title lang="es">Hermana VerÃ³nica</title>
+    <title lang="es">Hermana Verónica</title>
   </programme>
   <programme start="20260718190000 -0300" stop="20260718193000 -0300" channel="canal.87">
     <title lang="es">Los Petersen en Chile</title>
@@ -3508,7 +3508,7 @@
     <title lang="es">El mejor pastelero</title>
   </programme>
   <programme start="20260718082600 -0300" stop="20260718114800 -0300" channel="canal.88">
-    <title lang="es">Comidas exÃ³ticas</title>
+    <title lang="es">Comidas exóticas</title>
   </programme>
   <programme start="20260718114800 -0300" stop="20260718121200 -0300" channel="canal.88">
     <title lang="es">Las recetas de Daphne</title>
@@ -3529,13 +3529,13 @@
     <title lang="es">Guerra de pasteles</title>
   </programme>
   <programme start="20260718182200 -0300" stop="20260718191100 -0300" channel="canal.88">
-    <title lang="es">Bobby Flay: triple desafÃ­o</title>
+    <title lang="es">Bobby Flay: triple desafío</title>
   </programme>
   <programme start="20260718191100 -0300" stop="20260718200000 -0300" channel="canal.88">
-    <title lang="es">Alex vs. AmÃ©rica</title>
+    <title lang="es">Alex vs. América</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718202500 -0300" channel="canal.88">
-    <title lang="es">Rodando por AmÃ©rica</title>
+    <title lang="es">Rodando por América</title>
   </programme>
   <programme start="20260718202500 -0300" stop="20260718233800 -0300" channel="canal.88">
     <title lang="es">Hornea como Buddy</title>
@@ -3553,10 +3553,10 @@
     <title lang="es">Dra. Sandra Lee: especialista en piel</title>
   </programme>
   <programme start="20260718015700 -0300" stop="20260718024200 -0300" channel="canal.89">
-    <title lang="es">Sala de emergencias: historias inÃ©ditas</title>
+    <title lang="es">Sala de emergencias: historias inéditas</title>
   </programme>
   <programme start="20260718024200 -0300" stop="20260718060000 -0300" channel="canal.89">
-    <title lang="es">Sala de emergencias: historias inÃ©ditas</title>
+    <title lang="es">Sala de emergencias: historias inéditas</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718065700 -0300" channel="canal.89">
     <title lang="es">Dra. Sandra Lee: especialista en piel</title>
@@ -3595,7 +3595,7 @@
     <title lang="es">Campeonato de reposteros: delicias de primavera</title>
   </programme>
   <programme start="20260718190200 -0300" stop="20260718194500 -0300" channel="canal.89">
-    <title lang="es">Â¡SÃ­, Chef!</title>
+    <title lang="es">¡Sí, Chef!</title>
   </programme>
   <programme start="20260718194500 -0300" stop="20260718203100 -0300" channel="canal.89">
     <title lang="es">Un chef de otro nivel, con Gordon Ramsay</title>
@@ -3610,34 +3610,34 @@
     <display-name>90 - HGTV</display-name>
   </channel>
   <programme start="20260718000900 -0300" stop="20260718003300 -0300" channel="canal.90">
-    <title lang="es">Nuestro hogar en la montaÃ±a</title>
+    <title lang="es">Nuestro hogar en la montaña</title>
   </programme>
   <programme start="20260718003300 -0300" stop="20260718005600 -0300" channel="canal.90">
-    <title lang="es">Nuestro hogar en la montaÃ±a</title>
+    <title lang="es">Nuestro hogar en la montaña</title>
   </programme>
   <programme start="20260718005600 -0300" stop="20260718014400 -0300" channel="canal.90">
-    <title lang="es">Nuestro hogar frente al lago: renovaciÃ³n</title>
+    <title lang="es">Nuestro hogar frente al lago: renovación</title>
   </programme>
   <programme start="20260718014400 -0300" stop="20260718060000 -0300" channel="canal.90">
-    <title lang="es">Nuestro hogar en la montaÃ±a</title>
+    <title lang="es">Nuestro hogar en la montaña</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718062400 -0300" channel="canal.90">
-    <title lang="es">Nuestro hogar en la montaÃ±a</title>
+    <title lang="es">Nuestro hogar en la montaña</title>
   </programme>
   <programme start="20260718062400 -0300" stop="20260718064900 -0300" channel="canal.90">
-    <title lang="es">La mejor inversiÃ³n</title>
+    <title lang="es">La mejor inversión</title>
   </programme>
   <programme start="20260718064900 -0300" stop="20260718071000 -0300" channel="canal.90">
-    <title lang="es">Supercasas ecolÃ³gicas</title>
+    <title lang="es">Supercasas ecológicas</title>
   </programme>
   <programme start="20260718071000 -0300" stop="20260718075900 -0300" channel="canal.90">
-    <title lang="es">Nuestro hogar frente al lago: renovaciÃ³n</title>
+    <title lang="es">Nuestro hogar frente al lago: renovación</title>
   </programme>
   <programme start="20260718075900 -0300" stop="20260718112900 -0300" channel="canal.90">
-    <title lang="es">RestauraciÃ³n vintage</title>
+    <title lang="es">Restauración vintage</title>
   </programme>
   <programme start="20260718112900 -0300" stop="20260718121600 -0300" channel="canal.90">
-    <title lang="es">Â¿Por quÃ© comprÃ© esta casa?</title>
+    <title lang="es">¿Por qué compré esta casa?</title>
   </programme>
   <programme start="20260718121600 -0300" stop="20260718124000 -0300" channel="canal.90">
     <title lang="es">El hogar de las celebridades</title>
@@ -3646,10 +3646,10 @@
     <title lang="es">Carpas hawaianas</title>
   </programme>
   <programme start="20260718130300 -0300" stop="20260718132700 -0300" channel="canal.90">
-    <title lang="es">RemodelaciÃ³n sorpresa: baÃ±os</title>
+    <title lang="es">Remodelación sorpresa: baños</title>
   </programme>
   <programme start="20260718132700 -0300" stop="20260718175300 -0300" channel="canal.90">
-    <title lang="es">La mejor inversiÃ³n</title>
+    <title lang="es">La mejor inversión</title>
   </programme>
   <programme start="20260718175300 -0300" stop="20260718181700 -0300" channel="canal.90">
     <title lang="es">Primos al rescate: cocinas desastrosas</title>
@@ -3658,16 +3658,16 @@
     <title lang="es">Nuestro hogar en las Bahamas</title>
   </programme>
   <programme start="20260718184100 -0300" stop="20260718192900 -0300" channel="canal.90">
-    <title lang="es">Nuestro hogar frente al lago: renovaciÃ³n</title>
+    <title lang="es">Nuestro hogar frente al lago: renovación</title>
   </programme>
   <programme start="20260718192900 -0300" stop="20260718201500 -0300" channel="canal.90">
-    <title lang="es">La bÃºsqueda del diseÃ±ador estrella</title>
+    <title lang="es">La búsqueda del diseñador estrella</title>
   </programme>
   <programme start="20260718201500 -0300" stop="20260718232300 -0300" channel="canal.90">
-    <title lang="es">Hogares increÃ­bles</title>
+    <title lang="es">Hogares increíbles</title>
   </programme>
   <programme start="20260718232300 -0300" stop="20260719012300 -0300" channel="canal.90">
-    <title lang="es">Hogares increÃ­bles</title>
+    <title lang="es">Hogares increíbles</title>
   </programme>
   <channel id="canal.91">
     <display-name>91 - ID</display-name>
@@ -3685,7 +3685,7 @@
     <title lang="es">Casados con el mal</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718070500 -0300" channel="canal.91">
-    <title lang="es">VÃ­ctimas del amor</title>
+    <title lang="es">Víctimas del amor</title>
   </programme>
   <programme start="20260718070500 -0300" stop="20260718075000 -0300" channel="canal.91">
     <title lang="es">Cintas del crimen</title>
@@ -3703,13 +3703,13 @@
     <title lang="es">Demonios de Hollywood</title>
   </programme>
   <programme start="20260718122000 -0300" stop="20260718130600 -0300" channel="canal.91">
-    <title lang="es">Reinas caÃ­das</title>
+    <title lang="es">Reinas caídas</title>
   </programme>
   <programme start="20260718130600 -0300" stop="20260718135100 -0300" channel="canal.91">
-    <title lang="es">Reinas caÃ­das</title>
+    <title lang="es">Reinas caídas</title>
   </programme>
   <programme start="20260718135100 -0300" stop="20260718143800 -0300" channel="canal.91">
-    <title lang="es">InvestigaciÃ³n en curso</title>
+    <title lang="es">Investigación en curso</title>
   </programme>
   <programme start="20260718143800 -0300" stop="20260718174300 -0300" channel="canal.91">
     <title lang="es">Desaparecidos</title>
@@ -3724,10 +3724,10 @@
     <title lang="es">Demonios de Hollywood</title>
   </programme>
   <programme start="20260718204400 -0300" stop="20260718213100 -0300" channel="canal.91">
-    <title lang="es">Reinas caÃ­das</title>
+    <title lang="es">Reinas caídas</title>
   </programme>
   <programme start="20260718213100 -0300" stop="20260718233900 -0300" channel="canal.91">
-    <title lang="es">Reinas caÃ­das</title>
+    <title lang="es">Reinas caídas</title>
   </programme>
   <programme start="20260718233900 -0300" stop="20260719013900 -0300" channel="canal.91">
     <title lang="es">Viudo Negro: las 6 esposas de Thomas Randolph</title>
@@ -3739,16 +3739,16 @@
     <title lang="es">Salvajemente famosos</title>
   </programme>
   <programme start="20260718014400 -0300" stop="20260718022900 -0300" channel="canal.92">
-    <title lang="es">Mayday: catÃ¡strofes aÃ©reas</title>
+    <title lang="es">Mayday: catástrofes aéreas</title>
   </programme>
   <programme start="20260718022900 -0300" stop="20260718031500 -0300" channel="canal.92">
-    <title lang="es">Secreto en los ocÃ©anos</title>
+    <title lang="es">Secreto en los océanos</title>
   </programme>
   <programme start="20260718031500 -0300" stop="20260718052900 -0300" channel="canal.92">
     <title lang="es">Solo contra el mundo: Hazen Audel</title>
   </programme>
   <programme start="20260718052900 -0300" stop="20260718061300 -0300" channel="canal.92">
-    <title lang="es">Secreto en los ocÃ©anos</title>
+    <title lang="es">Secreto en los océanos</title>
   </programme>
   <programme start="20260718061300 -0300" stop="20260718063500 -0300" channel="canal.92">
     <title lang="es">Hacia lo desconocido</title>
@@ -3760,7 +3760,7 @@
     <title lang="es">Tesoros perdidos de Egipto</title>
   </programme>
   <programme start="20260718080000 -0300" stop="20260718110400 -0300" channel="canal.92">
-    <title lang="es">Secreto en los ocÃ©anos</title>
+    <title lang="es">Secreto en los océanos</title>
   </programme>
   <programme start="20260718110400 -0300" stop="20260718120400 -0300" channel="canal.92">
     <title lang="es">Alerta aeropuerto</title>
@@ -3772,7 +3772,7 @@
     <title lang="es">El salvaje Dr. Ole</title>
   </programme>
   <programme start="20260718140500 -0300" stop="20260718150400 -0300" channel="canal.92">
-    <title lang="es">Dra. K: animales exÃ³ticos</title>
+    <title lang="es">Dra. K: animales exóticos</title>
   </programme>
   <programme start="20260718150400 -0300" stop="20260718170500 -0300" channel="canal.92">
     <title lang="es">Yukon Vet</title>
@@ -3790,7 +3790,7 @@
     <title lang="es">Tesoros perdidos de Egipto</title>
   </programme>
   <programme start="20260718205900 -0300" stop="20260718234200 -0300" channel="canal.92">
-    <title lang="es">Tiburones de cerca con Bertie Gregory: tiburÃ³n martillo</title>
+    <title lang="es">Tiburones de cerca con Bertie Gregory: tiburón martillo</title>
   </programme>
   <programme start="20260718234200 -0300" stop="20260719014200 -0300" channel="canal.92">
     <title lang="es">Gordon Ramsay: sabores extremos</title>
@@ -3802,16 +3802,16 @@
     <title lang="es">Persiguiendo las lluvias</title>
   </programme>
   <programme start="20260718014000 -0300" stop="20260718023500 -0300" channel="canal.93">
-    <title lang="es">ExtraÃ±o, salvaje y maravilloso</title>
+    <title lang="es">Extraño, salvaje y maravilloso</title>
   </programme>
   <programme start="20260718023500 -0300" stop="20260718032500 -0300" channel="canal.93">
-    <title lang="es">Escuela selvÃ¡tica para orangutanes</title>
+    <title lang="es">Escuela selvática para orangutanes</title>
   </programme>
   <programme start="20260718032500 -0300" stop="20260718051500 -0300" channel="canal.93">
     <title lang="es">Sala de emergencias de vida silvestre</title>
   </programme>
   <programme start="20260718051500 -0300" stop="20260718061000 -0300" channel="canal.93">
-    <title lang="es">TiburÃ³n alfa: la batalla de los sexos</title>
+    <title lang="es">Tiburón alfa: la batalla de los sexos</title>
   </programme>
   <programme start="20260718061000 -0300" stop="20260718070500 -0300" channel="canal.93">
     <title lang="es">Persiguiendo las lluvias</title>
@@ -3835,7 +3835,7 @@
     <title lang="es">Tierra de primates</title>
   </programme>
   <programme start="20260718135000 -0300" stop="20260718144000 -0300" channel="canal.93">
-    <title lang="es">Verano alasqueÃ±o</title>
+    <title lang="es">Verano alasqueño</title>
   </programme>
   <programme start="20260718144000 -0300" stop="20260718172500 -0300" channel="canal.93">
     <title lang="es">Nutrias de la zona alta</title>
@@ -3844,7 +3844,7 @@
     <title lang="es">Nutrias de la zona alta</title>
   </programme>
   <programme start="20260718182000 -0300" stop="20260718191500 -0300" channel="canal.93">
-    <title lang="es">ExtraÃ±o, salvaje y maravilloso</title>
+    <title lang="es">Extraño, salvaje y maravilloso</title>
   </programme>
   <programme start="20260718191500 -0300" stop="20260718201000 -0300" channel="canal.93">
     <title lang="es">Bestias del Gran Azul</title>
@@ -3865,13 +3865,13 @@
     <title lang="es">Pesca mortal</title>
   </programme>
   <programme start="20260718005500 -0300" stop="20260718014900 -0300" channel="canal.94">
-    <title lang="es">Piscinas increÃ­bles</title>
+    <title lang="es">Piscinas increíbles</title>
   </programme>
   <programme start="20260718014900 -0300" stop="20260718023800 -0300" channel="canal.94">
     <title lang="es">Mascotas revoltosas</title>
   </programme>
   <programme start="20260718023800 -0300" stop="20260718060000 -0300" channel="canal.94">
-    <title lang="es">El Ãºltimo de su especie</title>
+    <title lang="es">El último de su especie</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718064900 -0300" channel="canal.94">
     <title lang="es">Los Irwin: Datos curiosos</title>
@@ -3892,10 +3892,10 @@
     <title lang="es">Mascotas revoltosas</title>
   </programme>
   <programme start="20260718124800 -0300" stop="20260718134100 -0300" channel="canal.94">
-    <title lang="es">El Ãºltimo de su especie</title>
+    <title lang="es">El último de su especie</title>
   </programme>
   <programme start="20260718134100 -0300" stop="20260718143300 -0300" channel="canal.94">
-    <title lang="es">The Dodo: en busca de hÃ©roes</title>
+    <title lang="es">The Dodo: en busca de héroes</title>
   </programme>
   <programme start="20260718143300 -0300" stop="20260718152500 -0300" channel="canal.94">
     <title lang="es">Dr. Jeff, veterinario</title>
@@ -3925,13 +3925,13 @@
     <display-name>95 - A&amp;E HD</display-name>
   </channel>
   <programme start="20260718001500 -0300" stop="20260718004500 -0300" channel="canal.95">
-    <title lang="es">Â¡Alto! Frontera: Chile</title>
+    <title lang="es">¡Alto! Frontera: Chile</title>
   </programme>
   <programme start="20260718004500 -0300" stop="20260718011500 -0300" channel="canal.95">
-    <title lang="es">Â¡Alto! Frontera</title>
+    <title lang="es">¡Alto! Frontera</title>
   </programme>
   <programme start="20260718011500 -0300" stop="20260718014500 -0300" channel="canal.95">
-    <title lang="es">Â¡Alto! Frontera</title>
+    <title lang="es">¡Alto! Frontera</title>
   </programme>
   <programme start="20260718014500 -0300" stop="20260718060000 -0300" channel="canal.95">
     <title lang="es">Cam Alert: Captura exitosa</title>
@@ -3976,13 +3976,13 @@
     <title lang="es">Falco</title>
   </programme>
   <programme start="20260718210000 -0300" stop="20260718212000 -0300" channel="canal.95">
-    <title lang="es">Â¿QuiÃ©n da mÃ¡$?</title>
+    <title lang="es">¿Quién da má$?</title>
   </programme>
   <programme start="20260718212000 -0300" stop="20260718234500 -0300" channel="canal.95">
-    <title lang="es">Â¿QuiÃ©n da mÃ¡$?</title>
+    <title lang="es">¿Quién da má$?</title>
   </programme>
   <programme start="20260718234500 -0300" stop="20260719014500 -0300" channel="canal.95">
-    <title lang="es">Â¡Alto! Frontera: Chile</title>
+    <title lang="es">¡Alto! Frontera: Chile</title>
   </programme>
   <channel id="canal.96">
     <display-name>96 - DISCOVERY</display-name>
@@ -4006,10 +4006,10 @@
     <title lang="es">Supervivencia al desnudo</title>
   </programme>
   <programme start="20260718071000 -0300" stop="20260718074800 -0300" channel="canal.96">
-    <title lang="es">OperaciÃ³n Alaska</title>
+    <title lang="es">Operación Alaska</title>
   </programme>
   <programme start="20260718074800 -0300" stop="20260718083800 -0300" channel="canal.96">
-    <title lang="es">MexicÃ¡nicos</title>
+    <title lang="es">Mexicánicos</title>
   </programme>
   <programme start="20260718083800 -0300" stop="20260718115600 -0300" channel="canal.96">
     <title lang="es">Supervivencia al desnudo</title>
@@ -4024,34 +4024,34 @@
     <title lang="es">Ed Stafford: rituales del mundo</title>
   </programme>
   <programme start="20260718143000 -0300" stop="20260718151900 -0300" channel="canal.96">
-    <title lang="es">Supervivencia al desnudo: ediciÃ³n extrema</title>
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
   </programme>
   <programme start="20260718151900 -0300" stop="20260718175100 -0300" channel="canal.96">
-    <title lang="es">Supervivencia al desnudo: ediciÃ³n extrema</title>
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
   </programme>
   <programme start="20260718175100 -0300" stop="20260718184200 -0300" channel="canal.96">
-    <title lang="es">Supervivencia al desnudo: ediciÃ³n extrema</title>
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
   </programme>
   <programme start="20260718184200 -0300" stop="20260718202100 -0300" channel="canal.96">
-    <title lang="es">Supervivencia al desnudo: el Ãºltimo en pie</title>
+    <title lang="es">Supervivencia al desnudo: el último en pie</title>
   </programme>
   <programme start="20260718202100 -0300" stop="20260718220000 -0300" channel="canal.96">
-    <title lang="es">Supervivencia al desnudo: el Ãºltimo en pie</title>
+    <title lang="es">Supervivencia al desnudo: el último en pie</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260718231100 -0300" channel="canal.96">
-    <title lang="es">Supervivencia al desnudo: el Ãºltimo en pie</title>
+    <title lang="es">Supervivencia al desnudo: el último en pie</title>
   </programme>
   <programme start="20260718231100 -0300" stop="20260718234000 -0300" channel="canal.96">
     <title lang="es">Ashley Cain: en la zona de peligro</title>
   </programme>
   <programme start="20260718234000 -0300" stop="20260719014000 -0300" channel="canal.96">
-    <title lang="es">Supervivencia al desnudo: el Ãºltimo en pie</title>
+    <title lang="es">Supervivencia al desnudo: el último en pie</title>
   </programme>
   <channel id="canal.97">
     <display-name>97 - H2</display-name>
   </channel>
   <programme start="20260718003000 -0300" stop="20260718012000 -0300" channel="canal.97">
-    <title lang="es">Gigantes de la ingenierÃ­a</title>
+    <title lang="es">Gigantes de la ingeniería</title>
   </programme>
   <programme start="20260718012000 -0300" stop="20260718030000 -0300" channel="canal.97">
     <title lang="es">Gigantes de la industria: Titanes</title>
@@ -4075,7 +4075,7 @@
     <title lang="es">Derrochadores ancestrales</title>
   </programme>
   <programme start="20260718080000 -0300" stop="20260718115500 -0300" channel="canal.97">
-    <title lang="es">Gigantes de la ingenierÃ­a</title>
+    <title lang="es">Gigantes de la ingeniería</title>
   </programme>
   <programme start="20260718115500 -0300" stop="20260718124000 -0300" channel="canal.97">
     <title lang="es">Inventos legendarios</title>
@@ -4090,16 +4090,16 @@
     <title lang="es">La industria del pecado</title>
   </programme>
   <programme start="20260718165000 -0300" stop="20260718174000 -0300" channel="canal.97">
-    <title lang="es">Gigantes de la ingenierÃ­a</title>
+    <title lang="es">Gigantes de la ingeniería</title>
   </programme>
   <programme start="20260718174000 -0300" stop="20260718182500 -0300" channel="canal.97">
     <title lang="es">Inventos legendarios</title>
   </programme>
   <programme start="20260718182500 -0300" stop="20260718185500 -0300" channel="canal.97">
-    <title lang="es">La IlÃ­ada y la Odisea</title>
+    <title lang="es">La Ilíada y la Odisea</title>
   </programme>
   <programme start="20260718185500 -0300" stop="20260718192500 -0300" channel="canal.97">
-    <title lang="es">La IlÃ­ada y la Odisea</title>
+    <title lang="es">La Ilíada y la Odisea</title>
   </programme>
   <programme start="20260718192500 -0300" stop="20260718202000 -0300" channel="canal.97">
     <title lang="es">Ciudades ocultas</title>
@@ -4114,13 +4114,13 @@
     <display-name>98 - HISTORY HD</display-name>
   </channel>
   <programme start="20260718001700 -0300" stop="20260718010700 -0300" channel="canal.98">
-    <title lang="es">Cosas extraÃ±as de la historia</title>
+    <title lang="es">Cosas extrañas de la historia</title>
   </programme>
   <programme start="20260718010700 -0300" stop="20260718015800 -0300" channel="canal.98">
-    <title lang="es">IncreÃ­ble con Dan Aykroyd</title>
+    <title lang="es">Increíble con Dan Aykroyd</title>
   </programme>
   <programme start="20260718015800 -0300" stop="20260718024500 -0300" channel="canal.98">
-    <title lang="es">IncreÃ­ble con Dan Aykroyd</title>
+    <title lang="es">Increíble con Dan Aykroyd</title>
   </programme>
   <programme start="20260718024500 -0300" stop="20260718060000 -0300" channel="canal.98">
     <title lang="es">Misterios inexplorados con Danny Trejo</title>
@@ -4141,13 +4141,13 @@
     <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20260718113000 -0300" stop="20260718121500 -0300" channel="canal.98">
-    <title lang="es">Maravillas modernas: el mundo de las mÃ¡quinas</title>
+    <title lang="es">Maravillas modernas: el mundo de las máquinas</title>
   </programme>
   <programme start="20260718121500 -0300" stop="20260718130100 -0300" channel="canal.98">
     <title lang="es">Ciudades ocultas</title>
   </programme>
   <programme start="20260718130100 -0300" stop="20260718134700 -0300" channel="canal.98">
-    <title lang="es">Casos insÃ³litos de la historia</title>
+    <title lang="es">Casos insólitos de la historia</title>
   </programme>
   <programme start="20260718134700 -0300" stop="20260718143800 -0300" channel="canal.98">
     <title lang="es">Nikola Tesla: archivos perdidos</title>
@@ -4168,7 +4168,7 @@
     <title lang="es">Grandes misterios de la historia con Laurence Fishburne</title>
   </programme>
   <programme start="20260718210000 -0300" stop="20260718232600 -0300" channel="canal.98">
-    <title lang="es">La evidencia estÃ¡ entre nosotros</title>
+    <title lang="es">La evidencia está entre nosotros</title>
   </programme>
   <programme start="20260718232600 -0300" stop="20260719012600 -0300" channel="canal.98">
     <title lang="es">Lo mejor de El precio de la historia</title>
@@ -4177,40 +4177,40 @@
     <display-name>99 - DISCOVERY TURBO</display-name>
   </channel>
   <programme start="20260718002800 -0300" stop="20260718011800 -0300" channel="canal.99">
-    <title lang="es">Al estilo Kindig: detrÃ¡s de las cÃ¡maras</title>
+    <title lang="es">Al estilo Kindig: detrás de las cámaras</title>
   </programme>
   <programme start="20260718011800 -0300" stop="20260718021200 -0300" channel="canal.99">
-    <title lang="es">InvasiÃ³n de garajes</title>
+    <title lang="es">Invasión de garajes</title>
   </programme>
   <programme start="20260718021200 -0300" stop="20260718030500 -0300" channel="canal.99">
-    <title lang="es">InvasiÃ³n de garajes</title>
+    <title lang="es">Invasión de garajes</title>
   </programme>
   <programme start="20260718030500 -0300" stop="20260718053400 -0300" channel="canal.99">
     <title lang="es">Overhaulin</title>
   </programme>
   <programme start="20260718053400 -0300" stop="20260718061900 -0300" channel="canal.99">
-    <title lang="es">Al estilo Kindig: detrÃ¡s de las cÃ¡maras</title>
+    <title lang="es">Al estilo Kindig: detrás de las cámaras</title>
   </programme>
   <programme start="20260718061900 -0300" stop="20260718071000 -0300" channel="canal.99">
-    <title lang="es">InvasiÃ³n de garajes</title>
+    <title lang="es">Invasión de garajes</title>
   </programme>
   <programme start="20260718071000 -0300" stop="20260718080000 -0300" channel="canal.99">
-    <title lang="es">InvasiÃ³n de garajes</title>
+    <title lang="es">Invasión de garajes</title>
   </programme>
   <programme start="20260718080000 -0300" stop="20260718084800 -0300" channel="canal.99">
     <title lang="es">Joyas sobre ruedas</title>
   </programme>
   <programme start="20260718084800 -0300" stop="20260718112500 -0300" channel="canal.99">
-    <title lang="es">El dÃºo mecÃ¡nico</title>
+    <title lang="es">El dúo mecánico</title>
   </programme>
   <programme start="20260718112500 -0300" stop="20260718121500 -0300" channel="canal.99">
     <title lang="es">Misfit Garage</title>
   </programme>
   <programme start="20260718121500 -0300" stop="20260718130500 -0300" channel="canal.99">
-    <title lang="es">MexicÃ¡nicos: Estado de MÃ©xico</title>
+    <title lang="es">Mexicánicos: Estado de México</title>
   </programme>
   <programme start="20260718130500 -0300" stop="20260718140100 -0300" channel="canal.99">
-    <title lang="es">InvasiÃ³n de garajes</title>
+    <title lang="es">Invasión de garajes</title>
   </programme>
   <programme start="20260718140100 -0300" stop="20260718145500 -0300" channel="canal.99">
     <title lang="es">Overhaulin</title>
@@ -4219,16 +4219,16 @@
     <title lang="es">Acumuladores sobre ruedas</title>
   </programme>
   <programme start="20260718172600 -0300" stop="20260718182100 -0300" channel="canal.99">
-    <title lang="es">InvasiÃ³n de garajes</title>
+    <title lang="es">Invasión de garajes</title>
   </programme>
   <programme start="20260718182100 -0300" stop="20260718191400 -0300" channel="canal.99">
-    <title lang="es">InvasiÃ³n de garajes</title>
+    <title lang="es">Invasión de garajes</title>
   </programme>
   <programme start="20260718191400 -0300" stop="20260718201200 -0300" channel="canal.99">
-    <title lang="es">Robert Downey Jr.: El auto de sus sueÃ±os</title>
+    <title lang="es">Robert Downey Jr.: El auto de sus sueños</title>
   </programme>
   <programme start="20260718201200 -0300" stop="20260718210400 -0300" channel="canal.99">
-    <title lang="es">MexicÃ¡nicos</title>
+    <title lang="es">Mexicánicos</title>
   </programme>
   <programme start="20260718210400 -0300" stop="20260718233600 -0300" channel="canal.99">
     <title lang="es">Chatarra de oro</title>
@@ -4243,7 +4243,7 @@
     <title lang="es">Pareja Tester</title>
   </programme>
   <programme start="20260718003000 -0300" stop="20260718004500 -0300" channel="canal.100">
-    <title lang="es">AutobiografÃ­as</title>
+    <title lang="es">Autobiografías</title>
   </programme>
   <programme start="20260718004500 -0300" stop="20260718010000 -0300" channel="canal.100">
     <title lang="es">Mech Tech Racing</title>
@@ -4294,7 +4294,7 @@
     <title lang="es">Electrificados</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718203000 -0300" channel="canal.100">
-    <title lang="es">El Ã¡ngel copiloto</title>
+    <title lang="es">El ángel copiloto</title>
   </programme>
   <programme start="20260718203000 -0300" stop="20260718223000 -0300" channel="canal.100">
     <title lang="es">Fan</title>
@@ -4342,7 +4342,7 @@
     <title lang="es">Project Runway</title>
   </programme>
   <programme start="20260718145000 -0300" stop="20260718174000 -0300" channel="canal.101">
-    <title lang="es">Bajo cubierta MediterrÃ¡neo</title>
+    <title lang="es">Bajo cubierta Mediterráneo</title>
   </programme>
   <programme start="20260718174000 -0300" stop="20260718183000 -0300" channel="canal.101">
     <title lang="es">Million Dollar Listing Los Angeles</title>
@@ -4375,28 +4375,28 @@
     <title lang="es">Perdiendo el juicio</title>
   </programme>
   <programme start="20260718022500 -0300" stop="20260718025000 -0300" channel="canal.102">
-    <title lang="es">SimÃ³n dice</title>
+    <title lang="es">Simón dice</title>
   </programme>
   <programme start="20260718025000 -0300" stop="20260718050000 -0300" channel="canal.102">
     <title lang="es">Relatos macabrones</title>
   </programme>
   <programme start="20260718050000 -0300" stop="20260718090500 -0300" channel="canal.102">
-    <title lang="es">MaratÃ³n Hermanas, un amor compartido</title>
+    <title lang="es">Maratón Hermanas, un amor compartido</title>
   </programme>
   <programme start="20260718090500 -0300" stop="20260718105000 -0300" channel="canal.102">
-    <title lang="es">SeguirÃ© tus pasos</title>
+    <title lang="es">Seguiré tus pasos</title>
   </programme>
   <programme start="20260718105000 -0300" stop="20260718123000 -0300" channel="canal.102">
-    <title lang="es">El deseo en otoÃ±o</title>
+    <title lang="es">El deseo en otoño</title>
   </programme>
   <programme start="20260718123000 -0300" stop="20260718141000 -0300" channel="canal.102">
     <title lang="es">Como dice el dicho</title>
   </programme>
   <programme start="20260718141000 -0300" stop="20260718155500 -0300" channel="canal.102">
-    <title lang="es">MaratÃ³n El ChapulÃ­n colorado</title>
+    <title lang="es">Maratón El Chapulín colorado</title>
   </programme>
   <programme start="20260718155500 -0300" stop="20260718162500 -0300" channel="canal.102">
-    <title lang="es">Â¡ChÃ³calas Compayito!</title>
+    <title lang="es">¡Chócalas Compayito!</title>
   </programme>
   <programme start="20260718162500 -0300" stop="20260718175500 -0300" channel="canal.102">
     <title lang="es">Hotel todo incluido - Final</title>
@@ -4435,7 +4435,7 @@
     <title lang="es">Backstage</title>
   </programme>
   <programme start="20260718053000 -0300" stop="20260718063000 -0300" channel="canal.103">
-    <title lang="es">Noche de oraciÃ³n</title>
+    <title lang="es">Noche de oración</title>
   </programme>
   <programme start="20260718063000 -0300" stop="20260718073000 -0300" channel="canal.103">
     <title lang="es">La puerta abierta</title>
@@ -4474,7 +4474,7 @@
     <title lang="es">I.E.M.A.</title>
   </programme>
   <programme start="20260718210000 -0300" stop="20260718220000 -0300" channel="canal.103">
-    <title lang="es">Un dÃ­a a la vez</title>
+    <title lang="es">Un día a la vez</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260719000000 -0300" channel="canal.103">
     <title lang="es">Catedral de la Fe</title>
@@ -4513,25 +4513,25 @@
     <title lang="es">El clon</title>
   </programme>
   <programme start="20260718125000 -0300" stop="20260718134500 -0300" channel="canal.104">
-    <title lang="es">MaratÃ³n Los miserables</title>
+    <title lang="es">Maratón Los miserables</title>
   </programme>
   <programme start="20260718134500 -0300" stop="20260718144000 -0300" channel="canal.104">
-    <title lang="es">MaratÃ³n Los miserables</title>
+    <title lang="es">Maratón Los miserables</title>
   </programme>
   <programme start="20260718144000 -0300" stop="20260718153500 -0300" channel="canal.104">
-    <title lang="es">MaratÃ³n Los miserables</title>
+    <title lang="es">Maratón Los miserables</title>
   </programme>
   <programme start="20260718153500 -0300" stop="20260718172500 -0300" channel="canal.104">
-    <title lang="es">MaratÃ³n Los miserables</title>
+    <title lang="es">Maratón Los miserables</title>
   </programme>
   <programme start="20260718172500 -0300" stop="20260718182000 -0300" channel="canal.104">
-    <title lang="es">MaratÃ³n Los miserables</title>
+    <title lang="es">Maratón Los miserables</title>
   </programme>
   <programme start="20260718182000 -0300" stop="20260718191500 -0300" channel="canal.104">
-    <title lang="es">MaratÃ³n Los miserables</title>
+    <title lang="es">Maratón Los miserables</title>
   </programme>
   <programme start="20260718191500 -0300" stop="20260718201000 -0300" channel="canal.104">
-    <title lang="es">MaratÃ³n Los miserables</title>
+    <title lang="es">Maratón Los miserables</title>
   </programme>
   <programme start="20260718201000 -0300" stop="20260718210500 -0300" channel="canal.104">
     <title lang="es">Caso cerrado</title>
@@ -4549,34 +4549,34 @@
     <title lang="es">Canal Rural noticias</title>
   </programme>
   <programme start="20260718010000 -0300" stop="20260718013000 -0300" channel="canal.105">
-    <title lang="es">GanaderÃ­a con todos</title>
+    <title lang="es">Ganadería con todos</title>
   </programme>
   <programme start="20260718013000 -0300" stop="20260718020000 -0300" channel="canal.105">
-    <title lang="es">San Francisco y la regiÃ³n</title>
+    <title lang="es">San Francisco y la región</title>
   </programme>
   <programme start="20260718020000 -0300" stop="20260718023000 -0300" channel="canal.105">
     <title lang="es">Terra Chaco</title>
   </programme>
   <programme start="20260718023000 -0300" stop="20260718060000 -0300" channel="canal.105">
-    <title lang="es">RÃ­o 4 Agro</title>
+    <title lang="es">Río 4 Agro</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718070000 -0300" channel="canal.105">
     <title lang="es">El campo, la industria verde</title>
   </programme>
   <programme start="20260718070000 -0300" stop="20260718090000 -0300" channel="canal.105">
-    <title lang="es">Mercado visiÃ³n</title>
+    <title lang="es">Mercado visión</title>
   </programme>
   <programme start="20260718090000 -0300" stop="20260718093000 -0300" channel="canal.105">
     <title lang="es">Rafaela rural</title>
   </programme>
   <programme start="20260718093000 -0300" stop="20260718100000 -0300" channel="canal.105">
-    <title lang="es">CÃ¡tedra avÃ­cola y agropecuaria</title>
+    <title lang="es">Cátedra avícola y agropecuaria</title>
   </programme>
   <programme start="20260718100000 -0300" stop="20260718123000 -0300" channel="canal.105">
     <title lang="es">Colombo y Magliano - Tropa Brangus</title>
   </programme>
   <programme start="20260718123000 -0300" stop="20260718130000 -0300" channel="canal.105">
-    <title lang="es">El paÃ­s de las estancias</title>
+    <title lang="es">El país de las estancias</title>
   </programme>
   <programme start="20260718130000 -0300" stop="20260718133000 -0300" channel="canal.105">
     <title lang="es">Uruguay productivo</title>
@@ -4585,7 +4585,7 @@
     <title lang="es">Alimentos y regiones</title>
   </programme>
   <programme start="20260718140000 -0300" stop="20260718190000 -0300" channel="canal.105">
-    <title lang="es">Colombo y Magliano - Especial Vientres Brangus Colorados de AgromelÃº del Norte y Tres Cruces</title>
+    <title lang="es">Colombo y Magliano - Especial Vientres Brangus Colorados de Agromelú del Norte y Tres Cruces</title>
   </programme>
   <programme start="20260718190000 -0300" stop="20260718193000 -0300" channel="canal.105">
     <title lang="es">Terra Chaco</title>
@@ -4597,7 +4597,7 @@
     <title lang="es">Campo abierto</title>
   </programme>
   <programme start="20260718203000 -0300" stop="20260718223000 -0300" channel="canal.105">
-    <title lang="es">Campo en acciÃ³n</title>
+    <title lang="es">Campo en acción</title>
   </programme>
   <channel id="canal.106">
     <display-name>106 - COMEDY CENTRAL</display-name>
@@ -4801,10 +4801,10 @@
     <title lang="es">Lo que quiero</title>
   </programme>
   <programme start="20260718043000 -0300" stop="20260718050000 -0300" channel="canal.109">
-    <title lang="es">Q al dÃ­a - Ãntimo</title>
+    <title lang="es">Q al día - Íntimo</title>
   </programme>
   <programme start="20260718050000 -0300" stop="20260718070000 -0300" channel="canal.109">
-    <title lang="es">Q clÃ¡sicos</title>
+    <title lang="es">Q clásicos</title>
   </programme>
   <programme start="20260718070000 -0300" stop="20260718093000 -0300" channel="canal.109">
     <title lang="es">Dulce despertar</title>
@@ -4816,13 +4816,13 @@
     <title lang="es">Q GYM</title>
   </programme>
   <programme start="20260718103000 -0300" stop="20260718120000 -0300" channel="canal.109">
-    <title lang="es">Los 5: EdiciÃ³n famosos</title>
+    <title lang="es">Los 5: Edición famosos</title>
   </programme>
   <programme start="20260718120000 -0300" stop="20260718130000 -0300" channel="canal.109">
     <title lang="es">Quince mejores de la semana</title>
   </programme>
   <programme start="20260718130000 -0300" stop="20260718133000 -0300" channel="canal.109">
-    <title lang="es">Q al dÃ­a</title>
+    <title lang="es">Q al día</title>
   </programme>
   <programme start="20260718133000 -0300" stop="20260718140000 -0300" channel="canal.109">
     <title lang="es">Encuentros extraordinarios</title>
@@ -4840,7 +4840,7 @@
     <title lang="es">Mi gente de Quiero</title>
   </programme>
   <programme start="20260718210000 -0300" stop="20260718220000 -0300" channel="canal.109">
-    <title lang="es">AqÃºstico</title>
+    <title lang="es">Aqústico</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260718230000 -0300" channel="canal.109">
     <title lang="es">Lo que quiero</title>
@@ -4852,7 +4852,7 @@
     <display-name>118 - DREAMWORKS</display-name>
   </channel>
   <programme start="20260718002000 -0300" stop="20260718004500 -0300" channel="canal.118">
-    <title lang="es">Las Ã©picas aventuras del CapitÃ¡n Calzoncillos</title>
+    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
   <programme start="20260718004500 -0300" stop="20260718011000 -0300" channel="canal.118">
     <title lang="es">Viva el rey Julien</title>
@@ -4885,31 +4885,31 @@
     <title lang="es">Las aventuras de la calle Harvey</title>
   </programme>
   <programme start="20260718131500 -0300" stop="20260718134000 -0300" channel="canal.118">
-    <title lang="es">Las Ã©picas aventuras del CapitÃ¡n Calzoncillos</title>
+    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
   <programme start="20260718134000 -0300" stop="20260718140500 -0300" channel="canal.118">
-    <title lang="es">Las Ã©picas aventuras del CapitÃ¡n Calzoncillos</title>
+    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
   <programme start="20260718140500 -0300" stop="20260718170000 -0300" channel="canal.118">
-    <title lang="es">Trolls: Â¡No pierdas el ritmo!</title>
+    <title lang="es">Trolls: ¡No pierdas el ritmo!</title>
   </programme>
   <programme start="20260718170000 -0300" stop="20260718182000 -0300" channel="canal.118">
-    <title lang="es">ChimpancÃ©s espaciales</title>
+    <title lang="es">Chimpancés espaciales</title>
   </programme>
   <programme start="20260718182000 -0300" stop="20260718200000 -0300" channel="canal.118">
     <title lang="es">Los Boxtrolls</title>
   </programme>
   <programme start="20260718200000 -0300" stop="20260718214000 -0300" channel="canal.118">
-    <title lang="es">Kubo y la bÃºsqueda samurÃ¡i</title>
+    <title lang="es">Kubo y la búsqueda samurái</title>
   </programme>
   <programme start="20260718214000 -0300" stop="20260718220500 -0300" channel="canal.118">
     <title lang="es">Glitter Model: poder femenino</title>
   </programme>
   <programme start="20260718220500 -0300" stop="20260718235500 -0300" channel="canal.118">
-    <title lang="es">Un jefe en paÃ±ales: de vuelta a los negocios</title>
+    <title lang="es">Un jefe en pañales: de vuelta a los negocios</title>
   </programme>
   <programme start="20260718235500 -0300" stop="20260719015500 -0300" channel="canal.118">
-    <title lang="es">Las Ã©picas aventuras del CapitÃ¡n Calzoncillos</title>
+    <title lang="es">Las épicas aventuras del Capitán Calzoncillos</title>
   </programme>
   <channel id="canal.130">
     <display-name>130 - SONY MOVIES</display-name>
@@ -4963,13 +4963,13 @@
     <title lang="es">Siete almas</title>
   </programme>
   <programme start="20260718231000 -0300" stop="20260719011000 -0300" channel="canal.130">
-    <title lang="es">Rendirse jamÃ¡s 4: La revuelta</title>
+    <title lang="es">Rendirse jamás 4: La revuelta</title>
   </programme>
   <channel id="canal.131">
     <display-name>131 - UNIVERSAL CRIME E</display-name>
   </channel>
   <programme start="20260718000000 -0300" stop="20260718004500 -0300" channel="canal.131">
-    <title lang="es">A sangre frÃ­a</title>
+    <title lang="es">A sangre fría</title>
   </programme>
   <programme start="20260718004500 -0300" stop="20260718013000 -0300" channel="canal.131">
     <title lang="es">Floribama Murders</title>
@@ -5011,16 +5011,16 @@
     <title lang="es">Accidente, suicidio, o asesinato</title>
   </programme>
   <programme start="20260718150000 -0300" stop="20260718180000 -0300" channel="canal.131">
-    <title lang="es">Enterrado en el jardÃ­n</title>
+    <title lang="es">Enterrado en el jardín</title>
   </programme>
   <programme start="20260718180000 -0300" stop="20260718184500 -0300" channel="canal.131">
-    <title lang="es">A sangre frÃ­a</title>
+    <title lang="es">A sangre fría</title>
   </programme>
   <programme start="20260718184500 -0300" stop="20260718193000 -0300" channel="canal.131">
-    <title lang="es">A sangre frÃ­a</title>
+    <title lang="es">A sangre fría</title>
   </programme>
   <programme start="20260718193000 -0300" stop="20260718201500 -0300" channel="canal.131">
-    <title lang="es">A sangre frÃ­a</title>
+    <title lang="es">A sangre fría</title>
   </programme>
   <programme start="20260718201500 -0300" stop="20260718210000 -0300" channel="canal.131">
     <title lang="es">The Real Murders of Orange County</title>
@@ -5038,7 +5038,7 @@
     <title lang="es">La Pantera Rosa</title>
   </programme>
   <programme start="20260718025000 -0300" stop="20260718042500 -0300" channel="canal.132">
-    <title lang="es">Guerra de papÃ¡s</title>
+    <title lang="es">Guerra de papás</title>
   </programme>
   <programme start="20260718042500 -0300" stop="20260718060000 -0300" channel="canal.132">
     <title lang="es">Quiero matar a mi jefe</title>
@@ -5065,10 +5065,10 @@
     <title lang="es">IT</title>
   </programme>
   <programme start="20260718173000 -0300" stop="20260718202000 -0300" channel="canal.132">
-    <title lang="es">IT: CapÃ­tulo dos</title>
+    <title lang="es">IT: Capítulo dos</title>
   </programme>
   <programme start="20260718202000 -0300" stop="20260718220000 -0300" channel="canal.132">
-    <title lang="es">El telÃ©fono negro</title>
+    <title lang="es">El teléfono negro</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260718235000 -0300" channel="canal.132">
     <title lang="es">Halloween: La noche final</title>
@@ -5212,7 +5212,7 @@
     <title lang="es">FBI: International</title>
   </programme>
   <programme start="20260718013000 -0300" stop="20260718021500 -0300" channel="canal.135">
-    <title lang="es">SeÃ±orita 89</title>
+    <title lang="es">Señorita 89</title>
   </programme>
   <programme start="20260718021500 -0300" stop="20260718031000 -0300" channel="canal.135">
     <title lang="es">The Newsreader</title>
@@ -5224,7 +5224,7 @@
     <title lang="es">FBI</title>
   </programme>
   <programme start="20260718063500 -0300" stop="20260718072000 -0300" channel="canal.135">
-    <title lang="es">SeÃ±orita 89</title>
+    <title lang="es">Señorita 89</title>
   </programme>
   <programme start="20260718072000 -0300" stop="20260718081000 -0300" channel="canal.135">
     <title lang="es">House M.D.</title>
@@ -5245,7 +5245,7 @@
     <title lang="es">Boston Blue</title>
   </programme>
   <programme start="20260718142000 -0300" stop="20260718150500 -0300" channel="canal.135">
-    <title lang="es">SeÃ±orita 89</title>
+    <title lang="es">Señorita 89</title>
   </programme>
   <programme start="20260718150500 -0300" stop="20260718173500 -0300" channel="canal.135">
     <title lang="es">Rey y conquistador</title>
@@ -5275,7 +5275,7 @@
     <title lang="es">Pasajeros</title>
   </programme>
   <programme start="20260718055000 -0300" stop="20260718072500 -0300" channel="canal.136">
-    <title lang="es">Guerra de papÃ¡s</title>
+    <title lang="es">Guerra de papás</title>
   </programme>
   <programme start="20260718072500 -0300" stop="20260718090000 -0300" channel="canal.136">
     <title lang="es">Quiero matar a mi jefe</title>
@@ -5302,13 +5302,13 @@
     <title lang="es">IT</title>
   </programme>
   <programme start="20260718203000 -0300" stop="20260718230000 -0300" channel="canal.136">
-    <title lang="es">IT: CapÃ­tulo dos</title>
+    <title lang="es">IT: Capítulo dos</title>
   </programme>
   <programme start="20260718230000 -0300" stop="20260718232000 -0300" channel="canal.136">
-    <title lang="es">Star Trek: Sin lÃ­mites</title>
+    <title lang="es">Star Trek: Sin límites</title>
   </programme>
   <programme start="20260718232000 -0300" stop="20260719012000 -0300" channel="canal.136">
-    <title lang="es">El telÃ©fono negro</title>
+    <title lang="es">El teléfono negro</title>
   </programme>
   <channel id="canal.140">
     <display-name>140 - HBO HD</display-name>
@@ -5332,10 +5332,10 @@
     <title lang="es">Gato con botas</title>
   </programme>
   <programme start="20260718100100 -0300" stop="20260718122100 -0300" channel="canal.140">
-    <title lang="es">Harry Potter y la Orden del FÃ©nix</title>
+    <title lang="es">Harry Potter y la Orden del Fénix</title>
   </programme>
   <programme start="20260718122100 -0300" stop="20260718132600 -0300" channel="canal.140">
-    <title lang="es">La casa del dragÃ³n</title>
+    <title lang="es">La casa del dragón</title>
   </programme>
   <programme start="20260718132600 -0300" stop="20260718154100 -0300" channel="canal.140">
     <title lang="es">El justiciero</title>
@@ -5359,10 +5359,10 @@
     <display-name>141 - HBO 2 HD</display-name>
   </channel>
   <programme start="20260718000000 -0300" stop="20260718001300 -0300" channel="canal.141">
-    <title lang="es">SÃ© lo que hicieron el verano pasado</title>
+    <title lang="es">Sé lo que hicieron el verano pasado</title>
   </programme>
   <programme start="20260718001300 -0300" stop="20260718011800 -0300" channel="canal.141">
-    <title lang="es">La casa del dragÃ³n</title>
+    <title lang="es">La casa del dragón</title>
   </programme>
   <programme start="20260718011800 -0300" stop="20260718015500 -0300" channel="canal.141">
     <title lang="es">Te van a matar</title>
@@ -5371,16 +5371,16 @@
     <title lang="es">Tornados</title>
   </programme>
   <programme start="20260718025600 -0300" stop="20260718043900 -0300" channel="canal.141">
-    <title lang="es">Una pelÃ­cula de Minecraft</title>
+    <title lang="es">Una película de Minecraft</title>
   </programme>
   <programme start="20260718043900 -0300" stop="20260718060000 -0300" channel="canal.141">
-    <title lang="es">El cadÃ¡ver de la novia</title>
+    <title lang="es">El cadáver de la novia</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718085500 -0300" channel="canal.141">
-    <title lang="es">It: CapÃ­tulo 2</title>
+    <title lang="es">It: Capítulo 2</title>
   </programme>
   <programme start="20260718085500 -0300" stop="20260718111000 -0300" channel="canal.141">
-    <title lang="es">La posesiÃ³n de la momia</title>
+    <title lang="es">La posesión de la momia</title>
   </programme>
   <programme start="20260718111000 -0300" stop="20260718133500 -0300" channel="canal.141">
     <title lang="es">Aquaman</title>
@@ -5395,16 +5395,16 @@
     <title lang="es">Undertone: frecuencia maldita</title>
   </programme>
   <programme start="20260718194000 -0300" stop="20260718220000 -0300" channel="canal.141">
-    <title lang="es">La posesiÃ³n de la momia</title>
+    <title lang="es">La posesión de la momia</title>
   </programme>
   <programme start="20260718220000 -0300" stop="20260719000000 -0300" channel="canal.141">
-    <title lang="es">TelÃ©fono negro 2</title>
+    <title lang="es">Teléfono negro 2</title>
   </programme>
   <channel id="canal.142">
     <display-name>142 - HBO FAMILY HD</display-name>
   </channel>
   <programme start="20260718000800 -0300" stop="20260718015500 -0300" channel="canal.142">
-    <title lang="es">El regreso de la nana mÃ¡gica</title>
+    <title lang="es">El regreso de la nana mágica</title>
   </programme>
   <programme start="20260718015500 -0300" stop="20260718040300 -0300" channel="canal.142">
     <title lang="es">El gran pez</title>
@@ -5419,19 +5419,19 @@
     <title lang="es">Los Croods</title>
   </programme>
   <programme start="20260718090000 -0300" stop="20260718104300 -0300" channel="canal.142">
-    <title lang="es">LEGO Ninjago: La pelÃ­cula</title>
+    <title lang="es">LEGO Ninjago: La película</title>
   </programme>
   <programme start="20260718104300 -0300" stop="20260718122400 -0300" channel="canal.142">
-    <title lang="es">Un jefe en paÃ±ales</title>
+    <title lang="es">Un jefe en pañales</title>
   </programme>
   <programme start="20260718122400 -0300" stop="20260718140600 -0300" channel="canal.142">
-    <title lang="es">La cabra que cambiÃ³ el juego - GOAT</title>
+    <title lang="es">La cabra que cambió el juego - GOAT</title>
   </programme>
   <programme start="20260718140600 -0300" stop="20260718154300 -0300" channel="canal.142">
     <title lang="es">Megamente</title>
   </programme>
   <programme start="20260718154300 -0300" stop="20260718171400 -0300" channel="canal.142">
-    <title lang="es">Emoji: la pelÃ­cula</title>
+    <title lang="es">Emoji: la película</title>
   </programme>
   <programme start="20260718171400 -0300" stop="20260718184900 -0300" channel="canal.142">
     <title lang="es">Kung Fu Panda</title>
@@ -5443,7 +5443,7 @@
     <title lang="es">Kung Fu Panda 3</title>
   </programme>
   <programme start="20260718215900 -0300" stop="20260718234100 -0300" channel="canal.142">
-    <title lang="es">La cabra que cambiÃ³ el juego - GOAT</title>
+    <title lang="es">La cabra que cambió el juego - GOAT</title>
   </programme>
   <programme start="20260718234100 -0300" stop="20260719014100 -0300" channel="canal.142">
     <title lang="es">Mujer Maravilla 1984</title>
@@ -5452,7 +5452,7 @@
     <display-name>143 - HBO SIGNATURE HD</display-name>
   </channel>
   <programme start="20260718015800 -0300" stop="20260718035800 -0300" channel="canal.143">
-    <title lang="es">La lucha pacÃ­fica de Martin Luther King</title>
+    <title lang="es">La lucha pacífica de Martin Luther King</title>
   </programme>
   <programme start="20260718035800 -0300" stop="20260718060000 -0300" channel="canal.143">
     <title lang="es">Cuidado con Slenderman</title>
@@ -5506,10 +5506,10 @@
     <title lang="es">Pecadores</title>
   </programme>
   <programme start="20260718022500 -0300" stop="20260718041400 -0300" channel="canal.144">
-    <title lang="es">HarpÃ­a: acecho maligno</title>
+    <title lang="es">Harpía: acecho maligno</title>
   </programme>
   <programme start="20260718041400 -0300" stop="20260718060000 -0300" channel="canal.144">
-    <title lang="es">La maldiciÃ³n del collar</title>
+    <title lang="es">La maldición del collar</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718083000 -0300" channel="canal.144">
     <title lang="es">El hombre de acero</title>
@@ -5518,13 +5518,13 @@
     <title lang="es">Venom</title>
   </programme>
   <programme start="20260718103000 -0300" stop="20260718120000 -0300" channel="canal.144">
-    <title lang="es">HarpÃ­a: acecho maligno</title>
+    <title lang="es">Harpía: acecho maligno</title>
   </programme>
   <programme start="20260718120000 -0300" stop="20260718140900 -0300" channel="canal.144">
-    <title lang="es">Jurassic World: mundo jurÃ¡sico</title>
+    <title lang="es">Jurassic World: mundo jurásico</title>
   </programme>
   <programme start="20260718140900 -0300" stop="20260718154900 -0300" channel="canal.144">
-    <title lang="es">AsÃ­ en la Tierra como en el Infierno</title>
+    <title lang="es">Así en la Tierra como en el Infierno</title>
   </programme>
   <programme start="20260718154900 -0300" stop="20260718180000 -0300" channel="canal.144">
     <title lang="es">Aquaman y el reino perdido</title>
@@ -5533,13 +5533,13 @@
     <title lang="es">El conjuro</title>
   </programme>
   <programme start="20260718195900 -0300" stop="20260718215900 -0300" channel="canal.144">
-    <title lang="es">El conjuro 3: El Diablo me obligÃ³ a hacerlo</title>
+    <title lang="es">El conjuro 3: El Diablo me obligó a hacerlo</title>
   </programme>
   <programme start="20260718215900 -0300" stop="20260718235900 -0300" channel="canal.144">
     <title lang="es">Venom</title>
   </programme>
   <programme start="20260718235900 -0300" stop="20260719015900 -0300" channel="canal.144">
-    <title lang="es">El sorprendente Hombre AraÃ±a</title>
+    <title lang="es">El sorprendente Hombre Araña</title>
   </programme>
   <channel id="canal.145">
     <display-name>145 - HBO MUNDI</display-name>
@@ -5551,10 +5551,10 @@
     <title lang="es">Roman J. Israel, Esq.</title>
   </programme>
   <programme start="20260718030500 -0300" stop="20260718044400 -0300" channel="canal.145">
-    <title lang="es">El engaÃ±o</title>
+    <title lang="es">El engaño</title>
   </programme>
   <programme start="20260718044400 -0300" stop="20260718060000 -0300" channel="canal.145">
-    <title lang="es">DrÃ¡cula</title>
+    <title lang="es">Drácula</title>
   </programme>
   <programme start="20260718060000 -0300" stop="20260718084600 -0300" channel="canal.145">
     <title lang="es">Boyhood: momentos de una vida</title>
@@ -5566,7 +5566,7 @@
     <title lang="es">Exterminio</title>
   </programme>
   <programme start="20260718140900 -0300" stop="20260718155500 -0300" channel="canal.145">
-    <title lang="es">Jane tomÃ³ las armas</title>
+    <title lang="es">Jane tomó las armas</title>
   </programme>
   <programme start="20260718155500 -0300" stop="20260718173100 -0300" channel="canal.145">
     <title lang="es">Uno: entre el oro y la muerte</title>
@@ -5575,7 +5575,7 @@
     <title lang="es">Los colonos</title>
   </programme>
   <programme start="20260718191400 -0300" stop="20260718205800 -0300" channel="canal.145">
-    <title lang="es">ChamÃ¡n: el exorcista pagano</title>
+    <title lang="es">Chamán: el exorcista pagano</title>
   </programme>
   <programme start="20260718205800 -0300" stop="20260718225700 -0300" channel="canal.145">
     <title lang="es">Nosotros</title>
@@ -5590,10 +5590,10 @@
     <display-name>146 - HBO XTREME HD</display-name>
   </channel>
   <programme start="20260718000000 -0300" stop="20260718021300 -0300" channel="canal.146">
-    <title lang="es">RÃ¡pidos y furiosos 5in control</title>
+    <title lang="es">Rápidos y furiosos 5in control</title>
   </programme>
   <programme start="20260718021300 -0300" stop="20260718022000 -0300" channel="canal.146">
-    <title lang="es">RÃ¡pidos y furiosos 6</title>
+    <title lang="es">Rápidos y furiosos 6</title>
   </programme>
   <programme start="20260718022000 -0300" stop="20260718045300 -0300" channel="canal.146">
     <title lang="es">Matrix resurrecciones</title>
@@ -5620,10 +5620,10 @@
     <title lang="es">Elysium</title>
   </programme>
   <programme start="20260718175400 -0300" stop="20260718194500 -0300" channel="canal.146">
-    <title lang="es">La supremacÃ­a de Bourne</title>
+    <title lang="es">La supremacía de Bourne</title>
   </programme>
   <programme start="20260718194500 -0300" stop="20260718214500 -0300" channel="canal.146">
-    <title lang="es">Bourne: El ultimÃ¡tum</title>
+    <title lang="es">Bourne: El ultimátum</title>
   </programme>
   <programme start="20260718214500 -0300" stop="20260718234500 -0300" channel="canal.146">
     <title lang="es">El robo perfecto: Pantera</title>
@@ -5632,10 +5632,10 @@
     <display-name>147 - HBO POP HD</display-name>
   </channel>
   <programme start="20260718014400 -0300" stop="20260718015400 -0300" channel="canal.147">
-    <title lang="es">Â¿Y dÃ³nde estÃ¡n las rubias?</title>
+    <title lang="es">¿Y dónde están las rubias?</title>
   </programme>
   <programme start="20260718015400 -0300" stop="20260718035200 -0300" channel="canal.147">
-    <title lang="es">Loco y estÃºpido amor</title>
+    <title lang="es">Loco y estúpido amor</title>
   </programme>
   <programme start="20260718035200 -0300" stop="20260718060000 -0300" channel="canal.147">
     <title lang="es">Duplicidad</title>
@@ -5644,13 +5644,13 @@
     <title lang="es">Alma encendida</title>
   </programme>
   <programme start="20260718075500 -0300" stop="20260718090000 -0300" channel="canal.147">
-    <title lang="es">Josh Johnson: SinfonÃ­a</title>
+    <title lang="es">Josh Johnson: Sinfonía</title>
   </programme>
   <programme start="20260718090000 -0300" stop="20260718103500 -0300" channel="canal.147">
-    <title lang="es">Un papÃ¡ genial</title>
+    <title lang="es">Un papá genial</title>
   </programme>
   <programme start="20260718103500 -0300" stop="20260718122000 -0300" channel="canal.147">
-    <title lang="es">Son como niÃ±os</title>
+    <title lang="es">Son como niños</title>
   </programme>
   <programme start="20260718122000 -0300" stop="20260718134900 -0300" channel="canal.147">
     <title lang="es">El Grinch</title>
@@ -5665,7 +5665,7 @@
     <title lang="es">CHIPS: patrulla motorizada recargada</title>
   </programme>
   <programme start="20260718194400 -0300" stop="20260718212900 -0300" channel="canal.147">
-    <title lang="es">Son como niÃ±os</title>
+    <title lang="es">Son como niños</title>
   </programme>
   <programme start="20260718212900 -0300" stop="20260718233600 -0300" channel="canal.147">
     <title lang="es">Flash</title>
@@ -5689,7 +5689,7 @@
     <title lang="es">Pare de sufrir</title>
   </programme>
   <programme start="20260718013000 -0300" stop="20260718020000 -0300" channel="canal.162">
-    <title lang="es">La Ãºltima puerta</title>
+    <title lang="es">La última puerta</title>
   </programme>
   <programme start="20260718020000 -0300" stop="20260718060000 -0300" channel="canal.162">
     <title lang="es">SOS espiritual</title>
@@ -5716,10 +5716,10 @@
     <title lang="es">Oldies but Goldies</title>
   </programme>
   <programme start="20260718150000 -0300" stop="20260718170000 -0300" channel="canal.162">
-    <title lang="es">ATR a todo ritmo - EdiciÃ³n finde</title>
+    <title lang="es">ATR a todo ritmo - Edición finde</title>
   </programme>
   <programme start="20260718170000 -0300" stop="20260718190000 -0300" channel="canal.162">
-    <title lang="es">DetrÃ¡s del deporte</title>
+    <title lang="es">Detrás del deporte</title>
   </programme>
   <programme start="20260718190000 -0300" stop="20260718200000 -0300" channel="canal.162">
     <title lang="es">Pulseras rojas</title>

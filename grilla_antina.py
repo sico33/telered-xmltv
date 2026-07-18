@@ -114,6 +114,7 @@ def procesar_grilla():
         try:
             r = requests.post(URL_GRID, data=payload, headers=headers, timeout=30)
             if r.status_code == 200:
+                r.encoding = 'utf-8'
                 parse_html_grid(r.text, scraped_data, fecha_base)
             else:
                 print(f"⚠️ Error en carga inicial del bloque: Status {r.status_code}")
@@ -135,6 +136,7 @@ def procesar_grilla():
             try:
                 r_next = requests.post(URL_GET_NEXT, data=next_payload, headers=headers, timeout=30)
                 if r_next.status_code == 200:
+                    r_next.encoding = 'utf-8'
                     html_content = r_next.text.strip()
                     if "programacion-fila" in html_content:
                         parse_html_grid(html_content, scraped_data, fecha_base)
