@@ -35,7 +35,7 @@ def crear_base_xmltv():
 def formatear_fecha_xmltv(fecha_dt):
     return fecha_dt.strftime("%Y%m%d%H%M%S -0300")
 
-def parse_html_grid(html_text, data_dict, fecha_base):
+def parse_html_grid(html_text, data_dict, fecha_base, hora_bloque):
     soup = BeautifulSoup(html_text, 'html.parser')
     filas = soup.find_all('div', class_='programacion-fila')
     
@@ -80,12 +80,16 @@ def parse_html_grid(html_text, data_dict, fecha_base):
                 h = int(match_hora.group(1))
                 m = int(match_hora.group(2))
                 
-                # Se asume que los programas pertenecen a fecha_base
-                # Si hay saltos cruzando medianoche, la lógica de ordenamiento posterior los corregirá.
                 hora_inicio = fecha_base.replace(hour=h, minute=m)
                 
-                # Usar la hora de inicio formateada como clave para evitar duplicar
-                time_key = hora_inicio.strftime("%H:%M")
+                # Si el programa empieza en una hora menor que el bloque de inicio (ej. empieza a las 01:00 pero el bloque es de las 18:00),
+                # significa que cruzó la medianoche, por lo que pertenece al día siguiente.
+                hora_bloque_h = int(hora_bloque.split(":")[0])
+                if h < hora_bloque_h and (hora_bloque_h - h) > 6:
+                    hora_inicio += timedelta(days=1)
+                
+                # Usar la fecha y hora formateada completa como clave para no pisar programas de distintos días
+                time_key = hora_inicio.strftime("%Y-%m-%d %H:%M")
                 data_dict[sintonia_txt]['programs'][time_key] = {
                     'start': hora_inicio,
                     'title': titulo
@@ -96,60 +100,63 @@ def procesar_grilla():
     scraped_data = {}
     
     fecha_hoy = datetime.now()
-    fecha_base = fecha_hoy.replace(hour=0, minute=0, second=0, microsecond=0)
-    date_str = fecha_base.strftime("%Y-%m-%d")
     
-    # Horarios para consultar la grilla completa del día (4 bloques de 6 horas)
-    bloques_horarios = ["00:00", "06:00", "12:00", "18:00"]
-    
-    for hora_bloque in bloques_horarios:
-        print(f"\n📡 Descargando bloque de las {hora_bloque} para el día {date_str}...")
+    # Iterar por hoy (offset 0) y mañana (offset 1)
+    for day_offset in [0, 1]:
+        fecha_base = (fecha_hoy + timedelta(days=day_offset)).replace(hour=0, minute=0, second=0, microsecond=0)
+        date_str = fecha_base.strftime("%Y-%m-%d")
         
-        # 1. Carga inicial del bloque
-        payload = {
-            'idAlineacion': '2313',
-            'fecha': date_str,
-            'hora': hora_bloque
-        }
-        try:
-            r = requests.post(URL_GRID, data=payload, headers=headers, timeout=30)
-            if r.status_code == 200:
-                r.encoding = 'utf-8'
-                parse_html_grid(r.text, scraped_data, fecha_base)
-            else:
-                print(f"⚠️ Error en carga inicial del bloque: Status {r.status_code}")
-                continue
-        except Exception as e:
-            print(f"❌ Error de red en carga inicial: {e}")
-            continue
+        # Horarios para consultar la grilla completa del día (4 bloques de 6 horas)
+        bloques_horarios = ["00:00", "06:00", "12:00", "18:00"]
+        
+        for hora_bloque in bloques_horarios:
+            print(f"\n📡 Descargando bloque de las {hora_bloque} para el día {date_str}...")
             
-        # 2. Paginación de canales (de 5 en 5)
-        from_val = 5
-        while True:
-            next_payload = {
+            # 1. Carga inicial del bloque
+            payload = {
                 'idAlineacion': '2313',
                 'fecha': date_str,
-                'hora': hora_bloque,
-                'from': str(from_val),
-                'idIdioma': '1'
+                'hora': hora_bloque
             }
             try:
-                r_next = requests.post(URL_GET_NEXT, data=next_payload, headers=headers, timeout=30)
-                if r_next.status_code == 200:
-                    r_next.encoding = 'utf-8'
-                    html_content = r_next.text.strip()
-                    if "programacion-fila" in html_content:
-                        parse_html_grid(html_content, scraped_data, fecha_base)
-                        from_val += 5
-                    else:
-                        # Fin de canales en este bloque horario
-                        break
+                r = requests.post(URL_GRID, data=payload, headers=headers, timeout=30)
+                if r.status_code == 200:
+                    r.encoding = 'utf-8'
+                    parse_html_grid(r.text, scraped_data, fecha_base, hora_bloque)
                 else:
-                    print(f"⚠️ Error en paginación (from={from_val}): Status {r_next.status_code}")
-                    break
+                    print(f"⚠️ Error en carga inicial del bloque: Status {r.status_code}")
+                    continue
             except Exception as e:
-                print(f"❌ Error de red en paginación (from={from_val}): {e}")
-                break
+                print(f"❌ Error de red en carga inicial: {e}")
+                continue
+                
+            # 2. Paginación de canales (de 5 en 5)
+            from_val = 5
+            while True:
+                next_payload = {
+                    'idAlineacion': '2313',
+                    'fecha': date_str,
+                    'hora': hora_bloque,
+                    'from': str(from_val),
+                    'idIdioma': '1'
+                }
+                try:
+                    r_next = requests.post(URL_GET_NEXT, data=next_payload, headers=headers, timeout=30)
+                    if r_next.status_code == 200:
+                        r_next.encoding = 'utf-8'
+                        html_content = r_next.text.strip()
+                        if "programacion-fila" in html_content:
+                            parse_html_grid(html_content, scraped_data, fecha_base, hora_bloque)
+                            from_val += 5
+                        else:
+                            # Fin de canales en este bloque horario
+                            break
+                    else:
+                        print(f"⚠️ Error en paginación (from={from_val}): Status {r_next.status_code}")
+                        break
+                except Exception as e:
+                    print(f"❌ Error de red en paginación (from={from_val}): {e}")
+                    break
 
     print(f"\n📦 Canales procesados: {len(scraped_data)}")
     
@@ -171,33 +178,11 @@ def procesar_grilla():
         listado_programas = list(canal_info['programs'].values())
         listado_programas.sort(key=lambda x: x['start'])
         
-        # Ajuste de días en cruces de medianoche
-        current_day_offset = 0
-        prev_hour = -1
-        programas_corregidos = []
-        
-        for prog in listado_programas:
-            hora_inicio = prog['start']
-            h = hora_inicio.hour
-            
-            if prev_hour != -1 and h < prev_hour:
-                # Si la hora actual es menor que la anterior por más de 6 horas, es cambio de día
-                if prev_hour - h > 6:
-                    current_day_offset += 1
-                    
-            prev_hour = h
-            hora_inicio_corregida = hora_inicio + timedelta(days=current_day_offset)
-            
-            programas_corregidos.append({
-                'start': hora_inicio_corregida,
-                'title': prog['title']
-            })
-            
         # Calcular duraciones y escribir programas
-        for i, prog in enumerate(programas_corregidos):
+        for i, prog in enumerate(listado_programas):
             hora_inicio = prog['start']
-            if i < len(programas_corregidos) - 1:
-                hora_fin = programas_corregidos[i+1]['start']
+            if i < len(listado_programas) - 1:
+                hora_fin = listado_programas[i+1]['start']
                 if hora_fin <= hora_inicio:
                     hora_fin = hora_inicio + timedelta(hours=1)
             else:
