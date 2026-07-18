@@ -1,0 +1,45 @@
+name: Actualizar Grilla Antina Diaria
+
+on:
+  schedule:
+    # Corre todos los días a las 05:30 AM hora de Argentina (08:30 UTC)
+    - cron: '30 8 * * *'
+  workflow_dispatch:
+
+# Permisos necesarios para publicar en GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📂 Clonar repositorio
+      uses: actions/checkout@v4
+
+    - name: 🐍 Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: 📦 Instalar dependencias de Python
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    - name: ⚽ Correr script raspador Antina
+      run: |
+        python grilla_antina.py
+        # Creamos la carpeta 'public' y movemos el XML ahí para Pages
+        mkdir -p public
+        mv grilla_antina.xml public/
+
+    - name: 🚀 Publicar en GitHub Pages
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        keep_files: true # Mantener los archivos existentes en la rama gh-pages (como grilla_telered.xml)
