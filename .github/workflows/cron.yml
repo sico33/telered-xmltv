@@ -42,9 +42,11 @@ jobs:
     - name: ⚽ Correr script raspador
       run: |
         python grilla_telered.py
-        # Creamos una carpeta 'public' y movemos el XML ahí para Pages
+        python grilla_antina.py
+        # Creamos una carpeta 'public' y movemos los XML ahí para Pages
         mkdir -p public
         mv grilla_telered.xml public/
+        mv grilla_antina.xml public/
 
     - name: 🚀 Publicar en GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
